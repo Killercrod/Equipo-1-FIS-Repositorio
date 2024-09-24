@@ -1,2 +1,2 @@
-# Equipo-2-FIS-Repositorio
+# Equipo-1-FIS-Repositorio
  
