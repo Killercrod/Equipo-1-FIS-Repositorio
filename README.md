@@ -1,5 +1,5 @@
 # Equipo-1-FIS-Repositorio
-Flujo de trabajo equipo 1
+Hola, en esta pagina hablaremos de como se constituye nuestro proyecto, como trabajaremos y como organizaremos los tiempos de entrega y trabajo
 ## INDICE
 1.Introduccion
 1.Metodologia de trabajo
