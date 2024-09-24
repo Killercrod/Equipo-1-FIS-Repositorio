@@ -18,7 +18,7 @@ En este repositorio estaremos realizando un proyecto de software para la asignat
 
 ## Metodologia de trabajo<a name="id2"></a>
 El trabajo se divide por tareas cada una de estas tareas se subdividen dependiendo de cuanto tiempo, esfuerzo y recursos se tengn que consumir para poder lograr estas metas las tenemos subdivididas en 3 que van seleccionadas con colores que estos se subdividen asi:
-### Color Verde<span style="color: green;">Color Verde</span>
+### <span style="color: green;">Color Verde</span>
 ## Asignacion de Tareas<a name="id3"></a>
 ## Equipos de trabajo<a name="id4"></a>
 ## Cronograma<a name="id5"></a>
