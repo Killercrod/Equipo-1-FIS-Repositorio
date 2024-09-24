@@ -1,5 +1,5 @@
 # Equipo-1-FIS-Repositorio
-![UADY](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/blob/main/Assets/UADY.png)
+<p align="center">![UADY](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/blob/main/Assets/UADY.png)p>
 ## INDICE
 1. [Introduccion](#id1)
 2. [Metodologia de trabajo](#id2)
