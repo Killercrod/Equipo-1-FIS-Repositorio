@@ -7,8 +7,7 @@
 5. [Cronograma](#id5)
 ## Introduccion<a name="id1"></a>
 En este repositorio estaremos realizando un proyecto de software para la asignatura de fundamentos en ingenieria en software en la que estaremos trabajando con distintas etapas este documento esta dirigido especificamente a los trabajadores de este proyecto esto para saber como trabajar en el proyecto,
-![<texto-alt>][<https://images.app.goo.gl/sQFuD37HrAZtzsQs9]>)
-<img alt="<texto-alt>" src="<url-de-la-imagen>">
+![Equipodetrabajo]()
 ## Metodologia de trabajo<a name="id2"></a>
 ## Asignacion de Tareas<a name="id3"></a>
 ## Equipos de trabajo<a name="id4"></a>
