@@ -12,7 +12,7 @@
    
 ## Introduccion<a name="id1"></a>
 
-En este repositorio estaremos realizando un proyecto de software para la asignatura de fundamentos en ingenieria en software en la que estaremos trabajando con distintas etapas este documento esta dirigido especificamente a los trabajadores de este proyecto esto para saber como trabajar en el proyecto, los tiempos en los que se van a entregar y hacer revisiones del trabajo.
+Hola, que tal en este archivo hablaremos sobre como trabajaremos alrededor de estas semanas y explicaremos paso por paso como usaremos las herramientas, como las administraremos, como asignaremos a cada uno de los integrantes del equipo el grado de participacion en el cual se involucraron, que tanto tiempo se tardara con cada activida, la prioridad de cada una de las tareas y actividades realizadas.
 
 ![EquipodeTrabajo](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/blob/main/Assets/Equipodetrabajo.png)
 
@@ -26,8 +26,12 @@ Con este color identificaremos las tareas que se puedan terminar en un aproximad
 ### Color Rojo
 Con este color identificaremos las tareas que se puedan terminar en el lapso de una semana en adelante estas tareas se conforman de multiples tareas de color amarillo y tareas de color verde el color rojo involucra la mayor prioridad y por esto mismo se conforma de todos los integrantes del equipo.
 ## Asignacion de Tareas<a name="id3"></a>
-En este trabajo se asignaran las partes del proyecto por algo que denominaremos como "Fases"
+En este trabajo se asignaran las partes del proyecto por algo que denominaremos como "Fases" y estas fases se van a subdividir en algo que llamaremos "partes" y de esto nos apoyaremos de la categorizacion de las tareas expuestas en el punto pasado.
+El proyecto completo se dividira de esta manera
+### Fase 1
+
 ## Equipos de trabajo<a name="id4"></a>
+E
 ## Cronograma<a name="id5"></a>
 
 
