@@ -33,6 +33,12 @@ El proyecto completo se dividira de esta manera
 ## Equipos de trabajo<a name="id4"></a>
 El trabajo se dividira por grupos de trabajo y cada grupo de trabajo estara conformado por un integrante que tendra su propio apartado para editar e incluir cambio a una de las ramas principales del repositorio y se le denominara a cada uno de esta manera:
    - BR-1-Cesar
+   - Br-2-David
+   - Br-3-Omar
+   - Br-4-Chipo
+   - Br-5-Jorge
+   - Br-6-Tello
+   - Br-7-Mango
 ## Cronograma<a name="id5"></a>
 
 
