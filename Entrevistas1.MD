@@ -17,7 +17,9 @@ Totalmente, si no hay confianza bilateral entre alumno-profesor no hay forma en 
 Totalmente, es crítica.
 
 * ¿Qué estrategias o recursos crees que podrían ayudar a los alumnos a mejorar su rendimiento y evitar el fracaso en sus materias?
-          ANEXO CONTENIDO OTORGADO POR LA MAESTRA
+          CREER: Puedes,Lo vas a lograr, En ti
+          CONFIAR: En tu profesor(a), En ti, Equivocarse es un aseñal que estoy aprendiendo
+          ESFORZARSE:Practicar, Hacer lo necesario por aprender
 
 ENTREVISTAS 
 Lic. Leydi Ofelia Caballero Chi 
