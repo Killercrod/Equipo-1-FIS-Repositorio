@@ -18,11 +18,15 @@ Hola, que tal en este archivo hablaremos sobre como trabajaremos alrededor de es
 
 ## Metodologia de trabajo<a name="id2"></a>
 El trabajo se divide por tareas cada una de estas tareas se subdividen dependiendo de cuanto tiempo, esfuerzo y recursos se tengn que consumir para poder lograr estas metas las tenemos subdivididas en 3 que van seleccionadas con colores que estos se subdividen asi:
+  
   ![Metodologia](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/blob/main/Assets/Metodologia.png)
+   
    ### Color Verde 
    Con este color identificaremos las tareas que se puedan terminar en un aproximado de 2 a 3 dias para poder terminar esta actividad, estan conformadas entre 1 y     2 integrantes debido a su poca complejidad, estas tareas son marcadas a inicio de cada fase para preparar las tareas mas grandes. 
+   
    ### Color Amarillo
    Con este color identificaremos las tareas que se puedan terminar en un aproximado de 2 a 3 dias con la diferencia principal que estas requieren de 3 a 4            integrantes de un equipo y la preparacion para este tipo de actividades se conforma de algunas tareas del nivel anterior.
+   
    ### Color Rojo
    Con este color identificaremos las tareas que se puedan terminar en el lapso de una semana en adelante estas tareas se conforman de multiples tareas de color       amarillo y tareas de color verde el color rojo involucra la mayor prioridad y por esto mismo se conforma de todos los integrantes del equipo.
 ## Asignacion de Tareas<a name="id3"></a>
