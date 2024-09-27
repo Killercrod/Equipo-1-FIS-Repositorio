@@ -25,36 +25,36 @@ Características Incluidas:
 
 - Implementación de un sistema de registro y inicio de sesión para estudiantes y maestros. 
 
-Visualización de Información: 
+2. Visualización de Información: 
 
-Acceso a la lista de maestros con información de contacto y materias que imparten. 
+- Acceso a la lista de maestros con información de contacto y materias que imparten. 
 
-Visualización de la malla curricular del programa de estudios. 
+- Visualización de la malla curricular del programa de estudios. 
 
-- Propuestas de Cursos: 
+3. Propuestas de Cursos: 
 
-Funcionalidad para que los estudiantes propongan nuevos cursos, fomentando la participación. 
+- Funcionalidad para que los estudiantes propongan nuevos cursos, fomentando la participación. 
 
-- Sistema de Notificaciones: 
+4. Sistema de Notificaciones: 
 
-Notificaciones sobre actualizaciones de cursos, cambios en la malla curricular, y mensajes importantes de los maestros. 
+-Notificaciones sobre actualizaciones de cursos, cambios en la malla curricular, y mensajes importantes de los maestros. 
 
-- Interfaz Intuitiva: 
+5. Interfaz Intuitiva: 
 
 Diseño de una interfaz de usuario amigable que facilite la navegación y el acceso a la información. 
 
-- Características Excluidas: 
+## Características Excluidas: 
 
-Funcionalidades Avanzadas de Gestión Académica: 
+1.Funcionalidades Avanzadas de Gestión Académica: 
 
-Este proyecto no incluirá funciones como la gestión de calificaciones o inscripciones, que podrían ser parte de un sistema académico más amplio. 
+- Este proyecto no incluirá funciones como la gestión de calificaciones o inscripciones, que podrían ser parte de un sistema académico más amplio. 
 
-- Integraciones Externas: 
+2. Integraciones Externas: 
 
-El sistema no se conectará con plataformas externas o sistemas de gestión de universidades en esta fase inicial. 
+- El sistema no se conectará con plataformas externas o sistemas de gestión de universidades en esta fase inicial. 
 
-4. Límites del Proyecto 
+## Límites del Proyecto 
 
-El proyecto se centrará únicamente en la Facultad de Matemáticas, sin contemplar otras facultades o programas en la universidad. 
+- El proyecto se centrará únicamente en la Facultad de Matemáticas, sin contemplar otras facultades o programas en la universidad. 
 
-Se desarrollará en un plazo determinado y se limitará a las funcionalidades mencionadas, con la posibilidad de futuras expansiones según las necesidades. 
+- Se desarrollará en un plazo determinado y se limitará a las funcionalidades mencionadas, con la posibilidad de futuras expansiones según las necesidades. 
