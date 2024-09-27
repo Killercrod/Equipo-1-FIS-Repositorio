@@ -1,4 +1,4 @@
-# Equipo-1-FIS-Repositorio
+# Equipo-1-FIS-Repositorios 
 
 ![UADY](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/blob/main/Assets/UADY.png)
 
