@@ -1,5 +1,6 @@
 Rangel Soberanis Jorge Arturo
 Recopilación “Entrevistas”
+
 Lic. Viviana Guadalupe
 
 * ¿Cuáles crees que son las principales razones por las que los estudiantes no logran comprender el contenido de las materias durante su primer semestre?
