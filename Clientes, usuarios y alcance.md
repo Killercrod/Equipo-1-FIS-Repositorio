@@ -11,17 +11,17 @@ Estudiantes de Nuevo Ingreso:
 
 ## Maestros: 
 
-Los docentes también serán usuarios del sistema, ya que podrán actualizar su información y cursos, así como interactuar con los estudiantes a través de la plataforma. 
+- Los docentes también serán usuarios del sistema, ya que podrán actualizar su información y cursos, así como interactuar con los estudiantes a través de la plataforma. 
 
 Estudiantes de semestres posteriores al primero: 
 
-Estos estudiantes, aunque no son los principales usuarios estos pueden llegar a utilizar el sistema de ayuda, aunque estos ya tengan experiencia en este campo. 
+- Estos estudiantes, aunque no son los principales usuarios estos pueden llegar a utilizar el sistema de ayuda, aunque estos ya tengan experiencia en este campo. 
 
 # Alcance del Proyecto 
 
 Características Incluidas: 
 
-Registro y Autenticación: 
+1. Registro y Autenticación: 
 
 Implementación de un sistema de registro y inicio de sesión para estudiantes y maestros. 
 
