@@ -2,7 +2,7 @@
 
 Facultad de Matemáticas: 
 
-La Facultad de Matemáticas será el cliente principal del proyecto. Su objetivo es mejorar la experiencia de los estudiantes de nuevo ingreso y facilitar la integración en la comunidad académica. 
+- La Facultad de Matemáticas será el cliente principal del proyecto. Su objetivo es mejorar la experiencia de los estudiantes de nuevo ingreso y facilitar la integración en la comunidad académica. 
 
 # Usuarios 
 
