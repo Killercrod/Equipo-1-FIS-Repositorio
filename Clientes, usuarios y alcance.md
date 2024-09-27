@@ -7,7 +7,7 @@ La Facultad de Matemáticas será el cliente principal del proyecto. Su objetivo
 # Usuarios 
 
 Estudiantes de Nuevo Ingreso: 
-Los usuarios principales del software serán los estudiantes que ingresan por primera vez a la facultad. Este grupo es fundamental, ya que el software está diseñado específicamente para satisfacer sus necesidades informativas y facilitar su adaptación. 
+- Los usuarios principales del software serán los estudiantes que ingresan por primera vez a la facultad. Este grupo es fundamental, ya que el software está diseñado específicamente para satisfacer sus necesidades informativas y facilitar su adaptación. 
 
 ## Maestros: 
 
