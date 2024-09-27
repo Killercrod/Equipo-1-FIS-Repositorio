@@ -23,7 +23,7 @@ Características Incluidas:
 
 1. Registro y Autenticación: 
 
-Implementación de un sistema de registro y inicio de sesión para estudiantes y maestros. 
+- Implementación de un sistema de registro y inicio de sesión para estudiantes y maestros. 
 
 Visualización de Información: 
 
