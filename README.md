@@ -2,50 +2,47 @@
 
 ![UADY](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/blob/main/Assets/UADY.png)
 
-## INDICE
+- **INDEX**
+1. [Introduction](#id1)
+2. [Work Sistem](#id2)
+3. [Task Assignment](#id3)
+4. [Work Teams](#id4)
+5. [Schedule](#i5)
 
-1. [Introduccion](#id1)
-2. [Metodologia de trabajo](#id2)
-3. [Asignacion de tareas](#id3)
-4. [Equipos de trabajo](#id4)
-5. [Cronograma](#id5)
-   
-## Introduccion<a name="id1"></a>
-
-Hola, que tal en este archivo hablaremos sobre como trabajaremos alrededor de estas semanas y explicaremos paso por paso como usaremos las herramientas, como las administraremos, como asignaremos a cada uno de los integrantes del equipo el grado de participacion en el cual se involucraron, que tanto tiempo se tardara con cada activida, la prioridad de cada una de las tareas y actividades realizadas.
+**INTRODUCTION**<a name="id1"></a>
+Hello in this file we will talk about how we work in these weeks and explain step by step how we're going to use the tools, how we administrate them, how we will assign to each teammate the degree of participation in which they were involved, how much time it takes each activity, the priority of each one of the tasks and the done ones. 
 
 ![EquipodeTrabajo](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/blob/main/Assets/Equipodetrabajo.png)
 
-## Metodologia de trabajo<a name="id2"></a>
-El trabajo se divide por tareas cada una de estas tareas se subdividen dependiendo de cuanto tiempo, esfuerzo y recursos se tengn que consumir para poder lograr estas metas las tenemos subdivididas en 3 que van seleccionadas con colores que estos se subdividen asi:
-  
-  ![Metodologia](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/blob/main/Assets/Metodologia.png)
-   
-   ### Color Verde 
-   Con este color identificaremos las tareas que se puedan terminar en un aproximado de 2 a 3 dias para poder terminar esta actividad, estan conformadas entre 1 y     2 integrantes debido a su poca complejidad, estas tareas son marcadas a inicio de cada fase para preparar las tareas mas grandes. 
-   
-   ### Color Amarillo
-   Con este color identificaremos las tareas que se puedan terminar en un aproximado de 2 a 3 dias con la diferencia principal que estas requieren de 3 a 4            integrantes de un equipo y la preparacion para este tipo de actividades se conforma de algunas tareas del nivel anterior.
-   
-   ### Color Rojo
-   Con este color identificaremos las tareas que se puedan terminar en el lapso de una semana en adelante estas tareas se conforman de multiples tareas de color       amarillo y tareas de color verde el color rojo involucra la mayor prioridad y por esto mismo se conforma de todos los integrantes del equipo.
-## Asignacion de Tareas<a name="id3"></a>
-En este trabajo se asignaran las partes del proyecto por algo que denominaremos como "Fases" y estas fases se van a subdividir en algo que llamaremos "partes" y de esto nos apoyaremos de la categorizacion de las tareas expuestas en el punto pasado.
-El proyecto completo se dividira de esta manera
-   ### Fase 1
+**WORK SYSTEM**<a name="id2"></a>
+The work has been divided by tasks, each one of these is subdivided depending on how much time, effort, and reources it takes to achieve them.
+They're subdivided in 3 colors:
 
-## Equipos de trabajo<a name="id4"></a>
-El trabajo se dividira por grupos de trabajo y cada grupo de trabajo estara conformado por un integrante que tendra su propio apartado para editar e incluir cambio a una de las ramas principales del repositorio y se le denominara a cada uno de esta manera:
-   - BR-1-Cesar
-   - Br-2-David
-   - Br-3-Omar
-   - Br-4-Chipo
-   - Br-5-Jorge
-   - Br-6-Tello
-   - Br-7-Mango
-## Cronograma<a name="id5"></a>
+ ![Metodologia](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/blob/main/Assets/Metodologia.png)
+    
+*Green color* - With this color we identify the tasks that can be finished in approximately 2 or 3 days, they need 1 or 2 teammates because of the low complexity of them, these are assigned at the beginning of the each fase because they are fundamentals for preparing the biggest tasks 
+*Yellow color* - With this color we identify the tasks that can be finished in approximately 2 or 3 days, with the difference that they need 3 or 4 teammates to be finished, they are conformed of some of the green color tasks 
+*Red color* - With this color we identify the tasks that can be finished in at least a week, these tasks contain multiples green and yellow tasks, they're the most important tasks of the project, so they need more priority, that's why they're realized by the entire team  
 
-En cuestion de tiempos lo dividiremos en dos que seran:
+**TASKS ASSIGNMENT**<a name="id3"></a>
+In this work the parts of the projects will be assigned like "Fases", and these fases will be subdivided in parts, we will rely on the color categorization of the tasks.
 
-- El tiempo presencial tenemos dos horarios principales en los que trabajamos que es martes 11:00 am a la 1:00 pm y viernes de 9:30 am a 11:00 am en estas trabajaremos problemas relacionados con actividades que requieran actividad conjunta en equipo y tambien para resolver dudas y corregir errores de las tareas virtuales esto con la finalidad que el tiempo presencial y el tiempo virtual tengan el mismo tiempo de productividad. 
-- En el tiempo virtual haremos tareas individuales o en equipos pequeños en los que trabajaremos distintas situaciones desde recopilacion de informacion hasta la resolucion de tareas sencillas por lo mismo que las tareas no conllevan una alta complejidad tienden a ser tareas que se terminan en un aproximado de 1 a 2 horas por actividad esta serie de actividades tanto la virtual como la presencial se registra en un proyecto de planner y en este repositorio esto con la intencion de se tenga una organizacion mas asertiva para la resolucion del proyecto.
+FASE 1
+**WORK TEAMS**<a name="id4"></a>
+The work will be divided by work teams, and each team will be conformed by one teammate that will have their own branch, to edit the main part of the work on the repository:
+
+ - BR - 1 - Cesar 
+ - BR - 2 - David
+ - BR - 3 - Omar 
+ - BR - 4 - Ivan 
+ - BR - 5 - Jorge 
+ - BR - 6 - Braulio 
+ - BR - 7 - Jonathan
+ 
+ **Schedule**<a name="id5"></a>
+In terms of time, we divide it in two tipes, the virtual and the presential
+ - The presential - We work on Tuesday starting at 11:00 am and finishing at 13:00 pm and Tuesday, starting at 9:30 am and finishing at 11:00 am; in these times we will work on activities that requires the whole team, and for answer questions about the project and make it all clear, for corrections too, all of this for made the virtual time and the presential time, more successful and for make them have the same productivity time.
+ - On the virtual time we make individual tasks or in a small teams, we work in information collection to resolution of simple tasks, for the same reason that it does not have much difficulty, so they can be finished in 1 or 2 hours, all of this work will be registered on a planner project and in this repository with the intention of having a better organization, and more assertive for the resolution of the project  
+ 
+
+ 
