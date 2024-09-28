@@ -9,7 +9,7 @@
 4. [Work Teams](#id4)
 5. [Schedule](#i5)
 
-**INTRODUCTION**<a name="id1"></a>
+###INTRODUCTION<a name="id1"></a>
 Hello in this file we will talk about how we work in these weeks and explain step by step how we're going to use the tools, how we administrate them, how we will assign to each teammate the degree of participation in which they were involved, how much time it takes each activity, the priority of each one of the tasks and the done ones. 
 
 ![EquipodeTrabajo](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/blob/main/Assets/Equipodetrabajo.png)
