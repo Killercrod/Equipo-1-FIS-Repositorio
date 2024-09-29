@@ -9,6 +9,7 @@
 3. [Asignacion de tareas](#id3)
 4. [Equipos de trabajo](#id4)
 5. [Cronograma](#id5)
+6. [Nuestros requisitos](#id6)
    
 ## Introduccion<a name="id1"></a>
 
@@ -46,3 +47,14 @@ En cuestion de tiempos lo dividiremos en dos que seran:
 
 - El tiempo presencial tenemos dos horarios principales en los que trabajamos que es martes 11:00 am a la 1:00 pm y viernes de 9:30 am a 11:00 am en estas trabajaremos problemas relacionados con actividades que requieran actividad conjunta en equipo y tambien para resolver dudas y corregir errores de las tareas virtuales esto con la finalidad que el tiempo presencial y el tiempo virtual tengan el mismo tiempo de productividad. 
 - En el tiempo virtual haremos tareas individuales o en equipos pequeños en los que trabajaremos distintas situaciones desde recopilacion de informacion hasta la resolucion de tareas sencillas por lo mismo que las tareas no conllevan una alta complejidad tienden a ser tareas que se terminan en un aproximado de 1 a 2 horas por actividad esta serie de actividades tanto la virtual como la presencial se registra en un proyecto de planner y en este repositorio esto con la intencion de se tenga una organizacion mas asertiva para la resolucion del proyecto.
+
+## Nuestros requisitos<a name="id6"></a>
+
+| Funcionales   | No funcionales   |
+|---------------|------------------|
+| Presentar información sobre las materias (breves descripciones)    | La página estará disponible para su uso exclusivamente entre las 7:00 AM y las 8:00 AM.    |
+| El sistema debe mostrar el porcentaje de estudiantes que aprobaron cada materia       | El sistema debe permitir el inicio de sesión de los usuarios mediante la utilización de las credenciales proporcionadas por UADY Virtual  |
+|   El sistema debe proporcionar una interfaz de usuario intuitiva y fácil de usar            |      La plataforma se utilizará exclusivamente para fines informativos, asegurando que la información sea precisa, actualizada y clara.                |
+|     El sistema  desplegar las materias por semestre, mostrando nombre y creditos          |          El sistema deberá ofrecer estadísticas de uso que incluyan el total de usuarios registrados y el número de usuarios activos en línea              |
+|El sistema debe generar un aviso claro cuando se intente cargar una materia de otro semestre o sin los conocimientos previos necesarios.|  Optimización y despliegue correcto de la información en distintos dispositivos y sistemas operativos    |
+|  El sistema Incluye un tutorial de uso para la página             |    La base de datos se actualizará semestralmente mediante encuestas y trabajo de campo     |
