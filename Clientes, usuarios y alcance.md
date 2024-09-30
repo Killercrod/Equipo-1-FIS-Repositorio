@@ -1,60 +1,57 @@
-# Cliente 
+# Customer
 
-Facultad de Matemáticas: 
+Math Faculty: 
+- The Math Faculty will be the main customer for our project. The main objective is enhance the new students experience and facilitate the academic comunity integration.
 
-- La Facultad de Matemáticas será el cliente principal del proyecto. Su objetivo es mejorar la experiencia de los estudiantes de nuevo ingreso y facilitar la integración en la comunidad académica. 
+# Users 
+New Students:
+- The main users for the software will be the newcoming students in the faculty. This group is fundamental mainly because the software is specifically designed to satisfy their informative needs and make a more easier adaptation to the system. 
 
-# Usuarios 
+Teachers: 
+- The professors will also be users for the system, they can update their information and their subjects aswell as interacting with students in the platform. 
 
-Estudiantes de Nuevo Ingreso: 
-- Los usuarios principales del software serán los estudiantes que ingresan por primera vez a la facultad. Este grupo es fundamental, ya que el software está diseñado específicamente para satisfacer sus necesidades informativas y facilitar su adaptación. 
+Advanced semester students:
 
-## Maestros: 
+- Even though not being the main users, they can use the program as an informative help, even if they already have experience in the area. 
 
-- Los docentes también serán usuarios del sistema, ya que podrán actualizar su información y cursos, así como interactuar con los estudiantes a través de la plataforma. 
+# Project Scope
 
-Estudiantes de semestres posteriores al primero: 
+Included Features: 
 
-- Estos estudiantes, aunque no son los principales usuarios estos pueden llegar a utilizar el sistema de ayuda, aunque estos ya tengan experiencia en este campo. 
+1. Log-in and Authentification:
+   
+- Implementation of a log in and sign in system for students and teachers using their UADY credentials.
 
-# Alcance del Proyecto 
+2. Information Display: 
 
-Características Incluidas: 
+- Access to teachers list with contact information and their respective courses.
 
-1. Registro y Autenticación: 
+- Curriculum mesh display for the respective study programs.
 
-- Implementación de un sistema de registro y inicio de sesión para estudiantes y maestros. 
+3. Course Proposals: 
 
-2. Visualización de Información: 
+- A function for the students where they can propose new courses, fomenting an active participation.
 
-- Acceso a la lista de maestros con información de contacto y materias que imparten. 
+4. Notification System: 
 
-- Visualización de la malla curricular del programa de estudios. 
+- Notifications about news from the courses, modifications on the curriculum mesh and important advices from the teachers.
 
-3. Propuestas de Cursos: 
+5. Intuitive Interface: 
 
-- Funcionalidad para que los estudiantes propongan nuevos cursos, fomentando la participación. 
+- A simple and friendly user interface that facilitates the navigation and access to the information.
 
-4. Sistema de Notificaciones: 
+## Excluded Features: 
 
--Notificaciones sobre actualizaciones de cursos, cambios en la malla curricular, y mensajes importantes de los maestros. 
+1. Advanced Features for Academic Management: 
 
-5. Interfaz Intuitiva: 
+- This project won't include functions like grades or registrations, they can be part of a more complex academic system.
 
-Diseño de una interfaz de usuario amigable que facilite la navegación y el acceso a la información. 
+2. External Integrations: 
 
-## Características Excluidas: 
+- The system won't be able to connect to external platforms or a university management systems in this initial phase.
 
-1.Funcionalidades Avanzadas de Gestión Académica: 
+## Project Limits
 
-- Este proyecto no incluirá funciones como la gestión de calificaciones o inscripciones, que podrían ser parte de un sistema académico más amplio. 
+- This project will only be focused on the Math Faculty, without contemplating any other faculties or programs from the university.
 
-2. Integraciones Externas: 
-
-- El sistema no se conectará con plataformas externas o sistemas de gestión de universidades en esta fase inicial. 
-
-## Límites del Proyecto 
-
-- El proyecto se centrará únicamente en la Facultad de Matemáticas, sin contemplar otras facultades o programas en la universidad. 
-
-- Se desarrollará en un plazo determinado y se limitará a las funcionalidades mencionadas, con la posibilidad de futuras expansiones según las necesidades. 
+- Will be developed in a certain period and will be limited to said features, with the possibilty for future expansions depending on the users needs. 
