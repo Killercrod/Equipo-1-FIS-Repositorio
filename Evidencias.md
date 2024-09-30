@@ -21,8 +21,7 @@ Cálculo Univariable | Álgebra Lineal
 Arquitectura y organización de computadoras |Calculo diferencial 
 Didáctica del algebra |Introducción al Cálculo 
 Algebra Intermedia |Geometria analitica
-</details>
-<details>
+
 Estas fueron las diferentes materias que los estudiantes ingresaron a las encuestas.
 
 #### Índice de Aprobación
