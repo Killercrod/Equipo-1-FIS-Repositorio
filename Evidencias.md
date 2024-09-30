@@ -10,8 +10,6 @@ En esta parte se preguntó a los alumnos si reprobaron alguna materia, el nombre
 En esta sección se quiso saber acerca de los distintos recursos y estrategias que los estudiantes usaron para cursar la materia.
 
 #### Respuestas
-![GForms answers](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/blob/942a9185baa78a620f225874f1b50542e0d758d1/Evidence/Forms%20Respuestas.png)
-
   
 |   | |
 | ------------- | ------------- |
