@@ -24,6 +24,7 @@ Estas fueron las diferentes materias que los estudiantes ingresaron a las encues
 
 #### Índice de Aprobación
 ![Índice Aprobación](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/blob/f3bf371af6e7f605dd54534792ed90b29c4c1202/Evidence/IndiceAprobacion.png)
+
 Se obtuvo que el 42,9 % de los alumnos reprobaron dichas materias mientras que el 57,1 % no las reprobaron.
 
 #### Razones de haber reprobado
