@@ -1,5 +1,4 @@
-# Interviewee
-Lic. Viviana Guadalupe
+# Interviewee (Lic. Viviana Guadalupe)
 
 What do you think are the main reasons why students struggle to understand the content of the subjects during their first semester?
 "Limited background in mathematical content" makes it difficult to develop new knowledge. 
@@ -16,7 +15,8 @@ BELIEVE: You can do it, you will achieve it, trust in yourself.
 TRUST: In your teacher, in yourself, making mistakes is a sign that I am learning.
 STRIVE: Practice, do what is necessary to learn.
 
-Interviewee Lic. Leydi Ofelia Caballero Chi
+# Interviewee (Lic. Leydi Ofelia Caballero Chi)
+
 What do you think are the main reasons why students struggle to understand the content of the subjects during their first semester?
 Previous competencies, that teachers adapt to the students' prior competencies, and the way the subject is taught.
 
@@ -29,7 +29,7 @@ Trust between student and teacher is critical for functioning and developing com
 What strategies or resources do you think could help students improve their performance and avoid failure in their subjects?
 Practice, using the necessary tools, and motivating personal dedication with good habits.
 
-Interviewee Lic. Alejandro Waldemar Cobá Magaña
+# Interviewee (Lic. Alejandro Waldemar Cobá Magaña) 
 What do you think are the main reasons why students struggle to understand the content of the subjects during their first semester?
 Deficiency in prior knowledge to develop the necessary skills for the course.
 
