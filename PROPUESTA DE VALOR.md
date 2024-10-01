@@ -16,4 +16,4 @@ The platform uses UADY virtual credentials to ensure that only authorized studen
 This not only protects sensitive information but also ensures that the content is relevant and specific to the university community, promoting responsible educational use.
 The project not only meets functional and non-functional requirements but also aligns with the needs and expectations of students, providing security in their course load and academic future.
 
-![https://github.com/Killercrod/Equipo-1-FIS-Repositorio/commit/7e8a36f305c2afeb6951d04d11cbd93e0fe97c49](diagramaaaa.png)
+!(diagramaaaa.png)[https://github.com/Killercrod/Equipo-1-FIS-Repositorio/commit/7e8a36f305c2afeb6951d04d11cbd93e0fe97c49]
