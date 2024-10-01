@@ -5,8 +5,6 @@ Lic. Viviana Guadalupe
 
 * ¿Cuáles crees que son las principales razones por las que los estudiantes no logran comprender el contenido de las materias durante su primer semestre?
 
-https://github.com/Killercrod/Equipo-1-FIS-Repositorio/blob/main/_Mapa%20mental%20tabla%20comparativa%20minimalista%20lila%20(1).png
-
 “Escaso bagaje de contenido matemático”
 Dificultan el desarrollo para generar nuevos conocimientos 
 La falta de estrategias para poder dominar las clases de acuerdo con el conocimiento, virtudes y habilidades de los estudiantes.
