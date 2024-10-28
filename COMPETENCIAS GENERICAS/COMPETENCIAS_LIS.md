@@ -65,7 +65,7 @@ Competencias Generales y Disciplinares:
  - Diseña algoritmos computacionales eficientes aplicando conceptos básicos de matemáticas discretas, lógica, algoritmia y estructura de datos.
  - Resuelve problemas computacionales aplicando el conocimiento de la estructura, organización, funcionamiento, programación e interconexión de sistemas de cómputo.
 
-   > **Teoría de la Computación**
+> **Teoría de la Computación**
 Competencias Generales y Disciplinares:
 
  - Usa la TIC en sus intervenciones profesionales y en su vida personal de manera pertinente y responsable.
