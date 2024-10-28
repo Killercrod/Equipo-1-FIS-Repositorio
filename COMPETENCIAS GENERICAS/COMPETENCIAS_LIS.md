@@ -1,4 +1,34 @@
-#**SEGUNDO SEMESTRE**
+**COMPETENCIAS DE MATERIAS DE PRIMER SEMESTRE**
+Conocimientos Genéricos
+ > **Algebra intermedia**
+ - Interpreta correctamente tablas, gráficas, diagramas y textos expresados con lenguaje matemático y científico que se utilizan en las matemáticas de nivel superior.
+ - Construye modelos matemáticos e ingenieriles mediante a aplicación de principios y procedimientos algebraicos, geométricos y de cálculo, para la comprensión y análisis de situaciones reales e hipotéticas.
+ - Trabaja bajo presión de manera eficaz y eficientemente.
+ - Actualiza sus conocimientos y habilidades para su ejercicio profesional y su vida personal de forma autónoma y permanente. 
+
+ > **Geometría Analítica** 
+ - Interpreta correctamente tablas, gráficas, diagramas y textos expresados con lenguaje matemático y científico que se utilizan en las matemáticas de nivel superior.
+ - Construye modelos matemáticos e ingenieriles mediante a aplicación de principios y procedimientos algebraicos, geométricos y de cálculo, para la comprensión y análisis de situaciones reales e hipotéticas.
+ - Gestiona el conocimiento en sus intervenciones profesionales y en su vida general.
+
+ > **Fundamentos de ingeniería de software**
+ -  Interpreta correctamente tablas, gráficas, diagramas y textos expresados con lenguaje matemático y científico que se utilizan en las matemáticas de nivel superior.
+- Usa las TIC sus intervenciones profesionales y en su vida personal de manera pertinente y responsable.
+ - Trabaja con otros en ambientes multi, inter y transdisciplinarios de manera cooperativa.
+ - Toma decisiones en su práctica profesional y personal de manera responsable.
+
+ > **Algoritmia** 
+ - Diseña algoritmos computacionales eficientes aplicando conceptos  básicos de matemáticas discretas lógica, algoritmia y estructuras de datos.
+ - Resuelve problemas computacionales eficientes aplicando conocimiento de la estructura, organización funcionamiento, programación e interconexión de sistemas de computo.
+- Usa las TIC sus intervenciones profesionales y en su vida personal de manera pertinente y responsable.
+
+ > **Responsabilidad Social Universitaria** 
+ - Explica los desafíos globales y locales del desarrollo social justo y sostenible a la luz de informaciones actualizadas y científicamente sustentadas. 
+ -  Valora la diversidad y multiculturalidad en su quehacer cotidiano, bajo los criterios de la ética.
+ - Trabaja con otros en ambientes multi, inter y transdiciplinarios de manera cooperativa.
+ - Utiliza habilidades de investigación en sus intervenciones profesionales con rigor científico.
+
+**SEGUNDO SEMESTRE**
 
 **Competencias genéricas ALGEBRA SUPERIOR**
 1.	Utiliza habilidades de investigación en sus intervenciones profesionales con rigor científico
@@ -33,7 +63,7 @@
 
 
 
-# **Tercer Semestre**
+ **Tercer Semestre**
 
 > **Álgebra Lineal**
 Competencias Generales y Disciplinares:
