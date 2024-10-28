@@ -7,7 +7,7 @@
 # **Tercer Semestre**
 
 > **Álgebra Lineal**
-Competencias Generales:
+Competencias Generales y Genéricas:
 
  - Usa la TIC en sus intervenciones profesionales y en su vida personal de manera pertinente y responsable.
  - Actualiza sus conocimientos y habilidades para su ejercicio profesional y su vida personal de forma autónoma y permanente.
