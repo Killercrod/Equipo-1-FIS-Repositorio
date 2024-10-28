@@ -1,6 +1,35 @@
+#**SEGUNDO SEMESTRE**
 
+**Competencias genéricas ALGEBRA SUPERIOR**
+1.	Utiliza habilidades de investigación en sus intervenciones profesionales con rigor científico
+2.	Desarrolla su pensamiento en intervenciones profesionales y personales, de manera crítica y reflexiva
 
+**Competencias genéricas CALCULO DIFERENCIAL**
+1.	Se comunica en español en forma oral y escrita en sus intervenciones profesionales y en su vida personal, utilizando correctamente el idioma
+2.	Usa las TIC en sus intervenciones profesionales y en sus
+3.	Desarrolla su pensamiento en intervenciones profesionales y personales, de manera critica, reflexiva y creativa
 
+**Competencias genéricas CULTURA MAYA**
+1.	• Gestiona el conocimiento en sus intervenciones profesionales y en su vida personal, de manera pertinente.
+2.	• Utiliza habilidades de investigación, en sus intervenciones profesionales con rigor científico.
+3.	• Trabaja con otros en ambientes multi, inter y transdisciplinarios de manera cooperativa.
+4.	• Manifiesta comportamientos profesionales y personales, en los ámbitos en los que se desenvuelve, de manera transparente y ética.
+5.	• Establece relaciones interpersonales, en los ámbitos en los que se desenvuelve, de manera positiva y respetuosa.
+6.	• Valora la diversidad y multiculturalidad en su quehacer cotidiano, bajo los criterios de la ética.
+7.	• Aprecia las diversas manifestaciones artísticas y culturales en su quehacer cotidiano, de manera positiva y respetuosa.
+8.	• Valora la cultura maya en su quehacer cotidiano, de manera positiva y respetuosa.
+
+**Competencias genéricas MATEMATICAS DISCRETAS**
+1.	Usa las TIC en sus intervenciones profesionales y en su vida personal de manera pertinente y responsable Aplica los conocimientos en sus intervenciones profesionales y en su vida personal con pertinencia.
+2.	Actualiza sus conocimientos y habilidades para su ejercicio profesional y su vida personal, de forma autónoma y permanente.
+3.	Desarrolla su pensamiento en intervenciones profesionales y personales, de manera critica, reflexiva y creativa.
+
+**Competencias genéricas PROGRAMACION ESTRUCTURADA**
+
+1.	Trabaja con otros en ambientes multi, inter y transdisciplinarios de manera cooperativa.
+2.	 Resuelve problemas en contextos locales, nacionales e internacionales, de manera profesional.
+3.	 Responde a nuevas situaciones en su práctica profesional y en su vida personal, en contextos locales, nacionales e internacionales, con flexibilidad.
+4.	 Trabaja bajo presión de manera eficaz, eficientemente
 
 
 
