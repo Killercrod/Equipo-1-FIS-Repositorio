@@ -38,3 +38,30 @@ Competencias especificas PROGRAMACIÓN ESTRUCTURADA
 3.	• Identifica los diferentes tipos de datos en los lenguajes de programación, para la creación de aplicaciones óptimas.
 
 TERCER SEMESTRE
+
+Competencias específicas ÁLGEBRA LINEAL
+1. Aplica las matrices, sus propiedades y operaciones para la solución de problemas matemáticos.
+2. Calcula correctamente la inversa de una matriz, utilizando
+el deterrinante y sus propiedades.
+3. Resuelve sistemas de ecuaciones lineales resultantes de la modelación de problemas en diferentes áreas,utilizando los métodos de Gauss, Gauss-Jordan y matriz inversa.
+4. Utiliza correctamente los conceptos de espacio vectorial y álgebra de vectores, para la construcción de la base de un espacio y la determinación de su dimensión.
+5. Aplica correctamente el producto escalar de un espacio vectorial en la determinación de la ortogonalidad de dos vectores y la proyección ortogonal de un vector en otro.
+6. Utiliza correctamente las transformaciones lineales y sus propiedades en la representación de matrices de reflexión, dilatación, contracción y rotación.
+7. Utiliza correctamente valores y vectores propios en la determinación de matrices diagonízables.
+
+Competencias específicas CÁLCULO INTEGRAL
+1. Analiza los siginificados de la integral en diferentes contextos matemáticos, de forma clara y ordenada.
+2. Resuelve ejercicios y problemas matemáticos, utilizando las propiedades de la integral y herramientas computacionales.
+3. Resuelve problemas matemáticos en el área de la ingeniería, usando el cálculo integral y herramientas computacionales.
+
+Competencias específicas PROGRAMACIÓN ORIENTADA A OBJETOS.
+1. Modela problemas de diversos contextos, aplicando los conceptos básicos del paradigma de Programación Orientada a Objetos.
+2. Desarrolla programas de software aplicando de manera óptima los conceptos de extensión y reusabilidad.
+3. Desarrolla programas de software, mediante el uso de la programación bajo contrato.
+4. Desarrolla programas de software eficiente, basado en un esquema por capas.
+5. Desarrolla programas de software toletantes a fallas, de acuerdo al esquemade manejo de excepciones.
+6. Implementa la persistencia de datos en programas de cómputo, bajo el paradigma orientado a objetos.
+
+Competencias específicas TEORÍA DE LA COMPUTACIÓN
+1. Resuelve correctamente problemas computacionesles, utilizando lenguajes y expresiones
+
