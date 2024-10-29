@@ -35,16 +35,16 @@ Competencias Generales y Disciplinares:
 
 **Segundo Semestre**
 
-**Competencias genéricas ALGEBRA SUPERIOR**
+> **Álgebra Superior**
 -	Utiliza habilidades de investigación en sus intervenciones profesionales con rigor científico
 -	Desarrolla su pensamiento en intervenciones profesionales y personales, de manera crítica y reflexiva
 
-**Competencias genéricas CALCULO DIFERENCIAL**
+> **Cálculo Diferencial**
 -	Se comunica en español en forma oral y escrita en sus intervenciones profesionales y en su vida personal, utilizando correctamente el idioma-
 -	Usa las TIC en sus intervenciones profesionales y en sus
 -	Desarrolla su pensamiento en intervenciones profesionales y personales, de manera critica, reflexiva y creativa
 
-**Competencias genéricas CULTURA MAYA**
+> **Cultura Maya**
 - Gestiona el conocimiento en sus intervenciones profesionales y en su vida personal, de manera pertinente.
 - Utiliza habilidades de investigación, en sus intervenciones profesionales con rigor científico.
 - Trabaja con otros en ambientes multi, inter y transdisciplinarios de manera cooperativa.
@@ -54,12 +54,12 @@ Competencias Generales y Disciplinares:
 - Aprecia las diversas manifestaciones artísticas y culturales en su quehacer cotidiano, de manera positiva y respetuosa.
 - Valora la cultura maya en su quehacer cotidiano, de manera positiva y respetuosa.
 
-**Competencias genéricas MATEMATICAS DISCRETAS**
+> **Matemáticas Discretas**
 - Usa las TIC en sus intervenciones profesionales y en su vida personal de manera pertinente y responsable Aplica los conocimientos en sus intervenciones profesionales y en su vida personal con pertinencia.
 -	Actualiza sus conocimientos y habilidades para su ejercicio profesional y su vida personal, de forma autónoma y permanente.
 -	Desarrolla su pensamiento en intervenciones profesionales y personales, de manera critica, reflexiva y creativa.
 
-**Competencias genéricas PROGRAMACION ESTRUCTURADA**
+> **Programación Estructurada**
 
 -	Trabaja con otros en ambientes multi, inter y transdisciplinarios de manera cooperativa.
 - Resuelve problemas en contextos locales, nacionales e internacionales, de manera profesional.
