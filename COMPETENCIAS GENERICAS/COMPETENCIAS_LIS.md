@@ -36,15 +36,18 @@ Competencias Generales y Disciplinares:
 **Segundo Semestre**
 
 > **Álgebra Superior**
+Competencias Generales y Disciplinares:
 -	Utiliza habilidades de investigación en sus intervenciones profesionales con rigor científico
 -	Desarrolla su pensamiento en intervenciones profesionales y personales, de manera crítica y reflexiva
 
 > **Cálculo Diferencial**
+Competencias Generales y Disciplinares:
 -	Se comunica en español en forma oral y escrita en sus intervenciones profesionales y en su vida personal, utilizando correctamente el idioma-
 -	Usa las TIC en sus intervenciones profesionales y en sus
 -	Desarrolla su pensamiento en intervenciones profesionales y personales, de manera critica, reflexiva y creativa
 
 > **Cultura Maya**
+Competencias Generales y Disciplinares:
 - Gestiona el conocimiento en sus intervenciones profesionales y en su vida personal, de manera pertinente.
 - Utiliza habilidades de investigación, en sus intervenciones profesionales con rigor científico.
 - Trabaja con otros en ambientes multi, inter y transdisciplinarios de manera cooperativa.
@@ -55,12 +58,13 @@ Competencias Generales y Disciplinares:
 - Valora la cultura maya en su quehacer cotidiano, de manera positiva y respetuosa.
 
 > **Matemáticas Discretas**
+Competencias Generales y Disciplinares:
 - Usa las TIC en sus intervenciones profesionales y en su vida personal de manera pertinente y responsable Aplica los conocimientos en sus intervenciones profesionales y en su vida personal con pertinencia.
 -	Actualiza sus conocimientos y habilidades para su ejercicio profesional y su vida personal, de forma autónoma y permanente.
 -	Desarrolla su pensamiento en intervenciones profesionales y personales, de manera critica, reflexiva y creativa.
 
 > **Programación Estructurada**
-
+Competencias Generales y Disciplinares:
 -	Trabaja con otros en ambientes multi, inter y transdisciplinarios de manera cooperativa.
 - Resuelve problemas en contextos locales, nacionales e internacionales, de manera profesional.
 - Responde a nuevas situaciones en su práctica profesional y en su vida personal, en contextos locales, nacionales e internacionales, con flexibilidad.
