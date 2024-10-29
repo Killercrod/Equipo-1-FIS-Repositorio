@@ -33,7 +33,7 @@ Competencias Generales y Disciplinares:
  - Trabaja con otros en ambientes multi, inter y transdiciplinarios de manera cooperativa.
  - Utiliza habilidades de investigación en sus intervenciones profesionales con rigor científico.
 
-**SEGUNDO SEMESTRE**
+**Segundo Semestre**
 
 **Competencias genéricas ALGEBRA SUPERIOR**
 -	Utiliza habilidades de investigación en sus intervenciones profesionales con rigor científico
