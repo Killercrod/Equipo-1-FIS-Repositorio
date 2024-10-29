@@ -98,11 +98,12 @@ Competencias Generales y Disciplinares:
 > **Teoría de la Computación**
 Competencias Generales y Disciplinares:
 
- - Usa la TIC en sus intervenciones profesionales y en su vida personal de manera pertinente y responsable.
- - Utiliza las habilidades de investigación, en sus intervenciones profesionales con rigor científico.
+ - Usa las TIC en sus intervenciones profesionales y en su vida personal de manera pertinente y responsable.
+ - Utiliza habilidades de investigación, en sus intervenciones profesionales con rigor científico.
+ - Desarrolla su pensamiento en intervenciones profesionales y personales, de manera critica, reflexiva y creativa.
  - Trabaja con otros en ambientes multi, inter y transdisciplinarios de manera cooperativa.
+ - Responde a nuevas situaciones en su práctica profesional y en su vida personal, en contextos locales, nacionales e internacionales, con flexibilidad.
  - Trabaja bajo presión de manera eficaz y eficiente.
- - Se comunica en español en forma oral y escrita en sus intervenciones profesionales y en su vida personal y en su vida personal utilizando correctamente el idioma.
  - Construye modelos matemáticos e ingenieriles mediante la aplicación de principios y procedimiento algebraicos, geométricos y del cálculo, para la comprensión y análisis de situaciones reales e hipotéticas.
  - Diseña algoritmos computacionales eficientes aplicando conceptos básicos de matemáticas discretas, lógica, algoritmia y estructura de datos.
  - Resuelve problemas computacionales aplicando el conocimiento de la estructura, organización, funcionamiento, programación e interconexión de sistemas de cómputo.
@@ -110,11 +111,11 @@ Competencias Generales y Disciplinares:
 > **Arquitectura y Organización de Computadoras**
 Competencias Generales y Disciplinares:
 
- - Se comunica en español en forma oral y escrita en sus intervenciones profesionales y en su vida personal y en su vida personal utilizando correctamente el idioma.
- - Formula, gestiona y evalúa proyectos en su ejercicio profesional y personal, considerando los criterios del desarrollo sostenible.
- - Trabaja con otros en ambientes multi, inter y transdisciplinarios de manera cooperativa.
- - Trabaja bajo presión de manera eficaz y eficiente.
- - Usa la TIC en sus intervenciones profesionales y en su vida personal de manera pertinente y responsable.
+ - Se comunica en inglés de manera oral y escrita, en la interacción con otros de forma adecuada.
+ - Responde a nuevas situaciones en su práctica profesional y en su vida personal, en contextos locales, nacionales e internacionales, con flexibilidad.
+ - Actualiza sus ejercicios y habilidades para su ejercicio profesional y su vida personal, de forma autónoma y permanente.
+ - Toma decisiones en su práctica profesional y personal de manera responsable.
+ - Usa las TIC en sus intervenciones profesionales y en su vida personal de manera pertinente y responsable.
  - Interpreta correctamente tablas, gráficas, diagramas y textos expresados con lenguaje matemático y científico que se utilizan en las matemáticas de nivel superior.
  - Diseña algoritmos computacionales eficientes aplicando conceptos básicos de matemáticas discretas, lógica, algoritmia y estructura de datos.
  - Resuelve problemas computacionales aplicando el conocimiento de la estructura, organización, funcionamiento, programación e interconexión de sistemas de cómputo.
