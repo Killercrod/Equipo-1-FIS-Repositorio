@@ -1,29 +1,33 @@
 **COMPETENCIAS DE MATERIAS DE PRIMER SEMESTRE**
 Conocimientos Genéricos
  > **Algebra intermedia**
-Competencias Generales y Disciplinares
+Competencias Generales y Disciplinares:
  - Interpreta correctamente tablas, gráficas, diagramas y textos expresados con lenguaje matemático y científico que se utilizan en las matemáticas de nivel superior.
  - Construye modelos matemáticos e ingenieriles mediante a aplicación de principios y procedimientos algebraicos, geométricos y de cálculo, para la comprensión y análisis de situaciones reales e hipotéticas.
  - Trabaja bajo presión de manera eficaz y eficientemente.
  - Actualiza sus conocimientos y habilidades para su ejercicio profesional y su vida personal de forma autónoma y permanente. 
 
- > **Geometría Analítica** 
+ > **Geometría Analítica**
+Competencias Generales y Disciplinares: 
  - Interpreta correctamente tablas, gráficas, diagramas y textos expresados con lenguaje matemático y científico que se utilizan en las matemáticas de nivel superior.
  - Construye modelos matemáticos e ingenieriles mediante a aplicación de principios y procedimientos algebraicos, geométricos y de cálculo, para la comprensión y análisis de situaciones reales e hipotéticas.
  - Gestiona el conocimiento en sus intervenciones profesionales y en su vida general.
 
  > **Fundamentos de ingeniería de software**
+Competencias Generales y Disciplinares:
  -  Interpreta correctamente tablas, gráficas, diagramas y textos expresados con lenguaje matemático y científico que se utilizan en las matemáticas de nivel superior.
 - Usa las TIC sus intervenciones profesionales y en su vida personal de manera pertinente y responsable.
  - Trabaja con otros en ambientes multi, inter y transdisciplinarios de manera cooperativa.
  - Toma decisiones en su práctica profesional y personal de manera responsable.
 
- > **Algoritmia** 
+ > **Algoritmia**
+Competencias Generales y Disciplinares: 
  - Diseña algoritmos computacionales eficientes aplicando conceptos  básicos de matemáticas discretas lógica, algoritmia y estructuras de datos.
  - Resuelve problemas computacionales eficientes aplicando conocimiento de la estructura, organización funcionamiento, programación e interconexión de sistemas de computo.
 - Usa las TIC sus intervenciones profesionales y en su vida personal de manera pertinente y responsable.
 
- > **Responsabilidad Social Universitaria** 
+ > **Responsabilidad Social Universitaria**
+Competencias Generales y Disciplinares: 
  - Explica los desafíos globales y locales del desarrollo social justo y sostenible a la luz de informaciones actualizadas y científicamente sustentadas. 
  -  Valora la diversidad y multiculturalidad en su quehacer cotidiano, bajo los criterios de la ética.
  - Trabaja con otros en ambientes multi, inter y transdiciplinarios de manera cooperativa.
