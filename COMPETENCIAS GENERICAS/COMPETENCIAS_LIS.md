@@ -1,5 +1,8 @@
 **COMPETENCIAS DE MATERIAS DE PRIMER SEMESTRE**
 Conocimientos Genéricos
+
+**Primer Semestre**
+
  > **Algebra intermedia**
 Competencias Generales y Disciplinares:
  - Interpreta correctamente tablas, gráficas, diagramas y textos expresados con lenguaje matemático y científico que se utilizan en las matemáticas de nivel superior.
