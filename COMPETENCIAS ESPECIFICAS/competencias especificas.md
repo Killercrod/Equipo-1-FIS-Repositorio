@@ -63,5 +63,16 @@ Competencias específicas PROGRAMACIÓN ORIENTADA A OBJETOS.
 6. Implementa la persistencia de datos en programas de cómputo, bajo el paradigma orientado a objetos.
 
 Competencias específicas TEORÍA DE LA COMPUTACIÓN
-1. Resuelve correctamente problemas computacionesles, utilizando lenguajes y expresiones
+1. Resuelve correctamente problemas computacionesles, utilizando lenguajes y expresiones regulares.
+2. Diseña algoritmos útiles en verificación de patrones, utilizando autómatas finitos.
+3. Diseña lenguajes de programación básicos, mediante gramáticas libres de contexto.
+4. Diseña autómatas de pila que reconocen correctamente lenguajes libres de contexto.
+5. Diseña algoritmos eficientesp ara el reconocimiento de lenguajes, usando máquinas de Turing.
+
+Competencias específicas ARQUITECTURA Y ORGANIZACIÓN DE COMPUTADORAS.
+1. Identifica claramente los componentes que conforman una computadora.
+2. Describe con precisión la estructura y organización de la Unidad Central de Procesamiento.
+3. Describe con precisión la estructura y organización del sistema de memoria de una computadora.
+4. Describe claramente los componentes de las arquitecturas de cómputo que ejecutan instrucciones en paralelo.
+5. Implementa algoritmos computacionales, usando lenguajes de bajo nivel.
 
