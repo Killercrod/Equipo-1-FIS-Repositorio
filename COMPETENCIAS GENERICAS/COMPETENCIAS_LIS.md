@@ -1,6 +1,7 @@
 **COMPETENCIAS DE MATERIAS DE PRIMER SEMESTRE**
 Conocimientos Genéricos
  > **Algebra intermedia**
+Competencias Generales y Disciplinares
  - Interpreta correctamente tablas, gráficas, diagramas y textos expresados con lenguaje matemático y científico que se utilizan en las matemáticas de nivel superior.
  - Construye modelos matemáticos e ingenieriles mediante a aplicación de principios y procedimientos algebraicos, geométricos y de cálculo, para la comprensión y análisis de situaciones reales e hipotéticas.
  - Trabaja bajo presión de manera eficaz y eficientemente.
