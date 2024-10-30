@@ -1,6 +1,6 @@
 > 
 
-## **Evolución del proyecto**
+## **Evolución del producto**
 
 > ### **Nacimiento del proyecto y primeras visiones** 
 >*Para comenzar a indagar en la evolución del proyecto, abarcando desde metodologías, ideas, estructura y documentación, debemos ver cómo fue que nació la idea del proyecto.*
