@@ -8,4 +8,4 @@ Nuestro objetivo consiste en poder facilitar el proceso por el que los alumnos d
 [SOBRE NOSOTROS](wawawa github aqui va link team)
 
 - [Entrega Fase 1](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/tree/FASE-1-PROYECTO-FIS)
-- [Entrega Fase 2](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/tree/FASE-2-PROYECTO-FIS)
+- [Entrega Fase 2](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/tree/fase2mangoborrador)
