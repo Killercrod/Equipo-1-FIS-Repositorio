@@ -1,3 +1,8 @@
-#**LINK DEL WIREFRAME**
+#**BOSQUEJO DE INTERFAZ**
 
 https://www.figma.com/design/YT4HiCFBc4AuxOjEfvL3RB/Untitled?node-id=0-1&m=dev&t=ecIvv9bu3GHvNHmL-1
+
+#**CORRESPONDECIA CON LOS REQUERIMIENTOS**
+
+
+#**VALIDACION DE INTERFACES**
