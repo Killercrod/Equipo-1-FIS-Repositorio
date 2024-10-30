@@ -6,9 +6,9 @@
 - La guia da consejos en el caso que el usuario desee elegir una materia de la cual la evaluacion le ha declarado que aun no esta preparado
 - La guia da consejos en el caso que el usuario elija una materia que si tenga oportunidad de pasar pero se le dificulte
 # Requisitos no funcionales
-•	El sistema debe habilitar la carga de materias en un horario de 8:00 am-11:00 am.
-•	Los colores utilizados para indicar la probabilidad de éxito en las materias deben ser distinguibles y comprensibles, asegurando que los usuarios con discapacidades visuales puedan interpretarlos correctamente.
-•	La guía debe cumplir con las pautas WCAG 2.1, asegurando que todos los elementos visuales, incluidos los colores y textos, sean accesibles para personas con discapacidades visuales y cognitivas.
+-	El sistema debe habilitar la carga de materias en un horario de 8:00 am-11:00 am.
+- Los colores utilizados para indicar la probabilidad de éxito en las materias deben ser distinguibles y comprensibles, asegurando que los usuarios con discapacidades visuales puedan interpretarlos correctamente.
+-	La guía debe cumplir con las pautas WCAG 2.1, asegurando que todos los elementos visuales, incluidos los colores y textos, sean accesibles para personas con discapacidades visuales y cognitivas.
 
 
 
