@@ -1,5 +1,3 @@
-PRIMER SEMESTRE 
-
 SEGUNDO SEMESTRE
 Competencias especificas ALGEBRA SUPERIOR
 1.	Determina la negación de una proposición de manera adecuada
