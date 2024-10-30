@@ -9,7 +9,7 @@ Nuestro equipo dividió el trabajo en distintas tareas en el apartado de proyect
 
 ![project](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/blob/c3a467148cfe86e7eb067371a964ab4f26360e6c/Entrega%202/Imagenes/project.jpg)
 
-Las tareas fueron divididas en Por Hacer, Haciendo y Hechas, donde los integrantes mueven las categorías de las tareas con respecto a lo que están haciendo.
+Las tareas fueron divididas en Por Hacer, Haciendo y Hechas, donde los integrantes mueven las categorías de las tareas con respecto a lo que están haciendo, igualmente las tareas tienen una categoría con respecto a la entrega, por ejemplo, si se quiere filtrar las tareas de Requerimientos, se puede realizar fácilmente con dichas etiquetas.
 
 Los integrantes se asignan a ellos mismo en dicha tarea para llevar evidencia de quienes trabajaron en ellas en el apartado de Assignees, buscando nuestros users y asignándonos por nuestra cuenta.
 
@@ -31,4 +31,7 @@ Cada integrante realizó una branch personal donde van subiendo avances y docume
 Presencial: se trabajó los martes de 11 a 1 PM y viernes de 9:30 a 11 AM; durante estos lapsos de tiempo trabajamos en actividades conjunta o individuales, también se discutía el avance del proyecto y se resolvían dudas de los integrantes. En esta fase 2 el trabajo presencial tuvo más peso que el virtual, ya que nos reuníamos y realizamos actividades más frecuente en los lapsos de tiempo ya mencionados.
 
 Virtual: en el trabajo virtual se realizaron trabajos pequeños mayormente individuales, para corregir el repositorio o agregar información faltante; estos trabajos fueron realizados en momentos no específicos y surgían al momento en el que era necesario afinar algún detalle del repositorio, se discutía vía chat y se llevaba acabo. El trabajo virtual al tener menos peso que el presencial quedó registrado de manera de comentarios en el planificador de proyecto con la intención de registrar los pequeños detalles en el repositorio.
+
+
+
 
