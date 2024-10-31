@@ -23,7 +23,11 @@ Al momento de dar click en alguna de estas se desplazara a la segunda imagen, do
 
 • El Wireframe desglosa sus competencias genéricas y específicas de la materia como bosquejo
 
-
+• El Wireframe muestra un bosquejo de consejos en el caso que el usuario desee elegir una materia de la cual la evaluación le ha declarado que 
+  aún no está preparado. 
+ 
+• El Wireframe muestra a manera de expresiones de emoticones una advertencia de consejos en el caso que el usuario elija una materia que si 
+  tenga oportunidad de pasar pero se le dificulte.
 
 
 
