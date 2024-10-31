@@ -21,6 +21,8 @@ Al momento de dar click en alguna de estas se desplazara a la segunda imagen, do
 
 •	El wireframe muestra al usuario por medio de colores las materias en las que tiene una mayor o menor posibilidad de pasar esa materia
 
+• El Wireframe desglosa sus competencias genéricas y específicas de la materia como bosquejo
+
 
 
 
