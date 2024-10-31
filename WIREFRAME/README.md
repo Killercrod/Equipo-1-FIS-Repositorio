@@ -8,7 +8,7 @@ figma(herramienta de diseño), el cual tras ideas dentro de el sprint y del anal
 
 ## Wareframe
 ![](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/blob/d01bff9823a12a7e4aae5c40f80f2fea3d94b5cd/WIREFRAME/Recursos%20Dise%C3%B1o/Main.png)
-![](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/blob/d01bff9823a12a7e4aae5c40f80f2fea3d94b5cd/WIREFRAME/Recursos%20Dise%C3%B1o/Vista%20x%20materia.png)
+![](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/blob/fdb449c18236ccda367c11f3b00418b85f690450/WIREFRAME/Recursos%20Dise%C3%B1o/Vista%20x%20materia.png)
 ## Recorrido de Wareframe
 Situandonos en la primera imagen donde vemos la malla en los 3 primeros semestres, podemos identificar las materias que se llevan y se llevarán. 
 Al momento de dar click en alguna de estas se desplazara a la segunda imagen, donde vemos contenido de la materia, en el cual estaran: su descripción, sus competencias, las materias con las que se relaciona, un emoji el cual su fondo en la parte de atras cambiará al igual que la cara para indicar si es recomendable la carga de la futura materia y debajo de el consejo que dependerá de la cantidad de competencias completadas.
