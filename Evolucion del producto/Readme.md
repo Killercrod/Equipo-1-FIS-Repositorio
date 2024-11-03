@@ -18,10 +18,10 @@ Se refiere a la oferta única que un producto o servicio de software proporciona
 ofrece como solución a un problema o necesidad específica del consumidor.
 Puede incluir características como calidad, soporte técnico y resolver los problemas que el "producto" enfrentara en el mercado.
 ---
-Dentro del proyecto MFTBUADY, nuestro sistema de gestión académica ofrece una solución integral y eficiente para estudiantes, facilitando el registro, 
+Dentro del proyecto FTBUADY, nuestro sistema de gestión académica ofrece una solución integral y eficiente para estudiantes, facilitando el registro, 
 acceso a información académica y la interacción con el cuerpo docente, todo en un entorno seguro y fácil de usar.
 ---
-Los beneficios que dara MFTBUADY, serán:
+Los beneficios que dara FTBUADY, serán:
 - Facilidad de Registro y Acceso, mediante el registro de usuario e inicio de sesión seguro.
 - Acceso a información Académica, a traves de la Malla Curricular y Propuestas de Cursos.
 - Interracción con docentes con la visualización de información, consultando y contactando con ellos.
