@@ -1,31 +1,31 @@
 > 
 
-## **Evolución del producto**
+## **Product evolution**
 
-> ### **Nacimiento del proyecto y primeras visiones** 
->*Para comenzar a indagar en la evolución del proyecto, abarcando desde metodologías, ideas, estructura y documentación, debemos ver cómo fue que nació la idea del proyecto.*
+> ### **Birth of the project and first visions** 
+>*To begin to investigate the evolution of the project, ranging from methodologies, ideas, structure and documentation, we must see how the idea of the project was born.*
 
-Cómo primera instancia al realizar la lluvia de ideas acerca de sobre que debíamos basar 			         nuestro proyecto, todos nos inclinamos a hablar sobre un tema y dificultad en común el cuál era el sistema de carga de materias, saber con que profesores debíamos cargar las materias y que se necesitaba saber para no reprobar o para llevar lo más ameno posible el camino a lo largo de nuestra estadía en la universidad, al ser estudiantes de primer ingreso y tener 0 conocimiento acerca de éstos temas, decidimos que podríamos realizar algo al respecto y basar nuestro proyecto en eso, justamente  para solucionar el problema que tienen muchos alumnos de primer ingreso.
+As a first instance when brainstorming about what we should base our project on, we were all inclined to talk about a common topic and difficulty which was the system of loading subjects, knowing with which professors we should load the subjects and what we needed to know so as not to fail or to carry out the path as enjoyable as possible throughout our stay at the university,   Being first-year students and having 0 knowledge about these issues, we decided that we could do something about it and base our project on that, precisely to solve the problem that many first-year students have.
 
-En primera instancia el proyecto se trató de una guía en la cuál los alumnos a traves de la plataforma UADYES/UADYVIRTUAL , principalmente los de primer a tercer semestre podrían tener un apartado en el cuál podían revisar la lista de materias obligatorias y con que maestros se ofertan, así cómo  también una lista de todos los profesores junto con una tarjeta de presentación en la cuál los alumnos podían ver las tasas de aprobación que tienen los alumnos con cada profesor, presentación general de cada uno y metodología de trabajo.
-Por la parte de las materias tendrían una descripción general de cada una, en la que les diría los conocimientos previos que se necesitaban para cargar dichas asignaturas.
+In the first instance, the project was a guide in which students through the UADYES/UADYVIRTUAL platform, mainly those from the first to third semester, could have a section in which they could review the list of compulsory subjects and with which teachers they are offered, as well as a list of all teachers along with a business card in which students could see the pass rates that the students have with each teacher, general presentation of each one and work methodology.
+On the subject side, they would have a general description of each one, in which I would tell them the previous knowledge that was needed to load these subjects.
 
-Sin embargo a lo largo de la evolución y planteamiento así cómo el comienzo de la documentación, nos dimos cuenta que habrían ciertas cuestiones que nos podrían limitar la idea principal del proyecto, cómo el hecho de que los maestros no siempre dan las mismas materias todos los semestres, además de que no hay acceso a la plataforma encargada de la carga de materias (SICEI) ni mucho menos a su información, por lo tanto la idea cambió a en vez de enfocarse en la información que proporcionaban los maestros, enfocarse más en las materias que se recomendaría cargar y cuáles no cargar en base a los conocimientos previos del alumno, a través de una serie de competencias genéricas y especificas a cumplir, trasladándose así, con el siguiente objetivo:
-> ### **Nuestro objetivo consiste en poder facilitar el proceso por el que los alumnos de nuevo ingreso experimentan respecto a la carga de materias al finalizar las que en ese momento tienen, se plantea realizarlo de una manera interactiva, asì como utilizando informacion como las competencias genericas y especificas de cada materia individual para obtener mayor claridad de cada una, esto con la finalidad de tener màs entendimiento sobre las materias a cargar en un futuro semestre y no tener problemas para comprender las materias que el alumno se encuentra cargando.**
+However, throughout the evolution and approach as well as the beginning of the documentation, we realized that there would be certain issues that could limit the main idea of the project, such as the fact that teachers do not always teach the same subjects every semester, in addition to the fact that there is no access to the platform in charge of uploading subjects (SICEI) much less to their information,   Therefore, the idea changed to instead of focusing on the information provided by the teachers, focusing more on the subjects that would be recommended to load and which not to load based on the student's previous knowledge, through a series of generic and specific competencies to be fulfilled, thus moving with the following objective:
+> ### **Our objective is to be able to facilitate the process by which new students experience the load of subjects at the end of the ones they have at that time, it is proposed to do it in an interactive way, as well as using information such as the generic and specific competencies of each individual subject to obtain greater clarity of each one,  this in order to have more understanding about the subjects to be loaded in a future semester and not have problems understanding the subjects that the student is charging.**
 
-# PROPUESTA DE VALOR 
-Se refiere a la oferta única que un producto o servicio de software proporciona a sus usuarios o clientes, es decir,el valor percibido que el software 
-ofrece como solución a un problema o necesidad específica del consumidor.
-Puede incluir características como calidad, soporte técnico y resolver los problemas que el "producto" enfrentara en el mercado.
+### VALUE PROPOSITION 
+It refers to the unique offering that a software product or service provides to its users or customers, i.e., the perceived value that software 
+offers as a solution to a specific consumer problem or need.
+It can include features such as quality, technical support, and solving the problems that the "product" will face in the market.
 ---
-Dentro del proyecto FTBUADY, nuestro sistema de gestión académica ofrece una solución integral y eficiente para estudiantes, facilitando el registro, 
-acceso a información académica y la interacción con el cuerpo docente, todo en un entorno seguro y fácil de usar.
+Within the FTBUADY project, our academic management system offers a comprehensive and efficient solution for students, facilitating registration, 
+Access to academic information and interaction with faculty, all in a safe and easy-to-use environment.
 ---
-Los beneficios que dara FTBUADY, serán:
-- Facilidad de Registro y Acceso, mediante el registro de usuario e inicio de sesión seguro.
-- Acceso a información Académica, a traves de la Malla Curricular y Propuestas de Cursos.
-- Interracción con docentes con la visualización de información, consultando y contactando con ellos.
+The benefits that FTBUADY will give will be:
+- Ease of Registration and Access, through user registration and secure login.
+- Access to Academic Information, through the Curriculum and Course Proposals.
+- Interaction with teachers with the visualization of information, consulting and contacting them.
 ---
-Esta propuesta de valor se centra en ofrecer una experiencia de usuario excepcional, 
-asegurando que los estudiantes tengan acceso a la información y herramientas necesarias para su éxito académico, 
-mientras se mantienen altos estándares de seguridad y usabilidad.
+This value proposition focuses on delivering an exceptional user experience, 
+ensuring that students have access to the information and tools necessary for their academic success, 
+while maintaining high standards of security and usability.
