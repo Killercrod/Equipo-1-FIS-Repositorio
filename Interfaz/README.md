@@ -1,6 +1,6 @@
 # Diseño 
 En la etapa de diseño fue desarrollado un wireframe, el cual busca mostrar la estructura y funcioncionalidad de la interfase del diseño para el proyecto,
-donde se prioriza que el UX logre cumplir los [requisitos ](Requisitos.md)
+donde se prioriza que el UX logre cumplir los [requisitos](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/blob/FASE-2-PROYECTO-FIS/Requirements/ReadMe.md)
 
 ## ¿Como se logra ?
 Se desarrolló el [wireframe](https://www.figma.com/design/YT4HiCFBc4AuxOjEfvL3RB/Untitled?node-id=0-1&node-type=canvas&t=wTuoHS4uEmnhiwvt-0) en 
