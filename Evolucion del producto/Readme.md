@@ -5,7 +5,7 @@
 > ### **First ideas for the project** 
 >*In order to see the evolution of our project, including metodologies, ideas, structures and documentation, we must see how the project was originally conceived*
 
-first of all, we did a brainstorm of various ideas on how our project should be used for, we all agreed about the complications of charging schoolar subjects, know with which teachers you should charge and what do you need in order to approve the assignment making this a comfortable and easy experience for new students, we all agreed that the main focus should be to make the proccess of charging subjects something more easiers and with a more complete information.
+First of all, we did a brainstorm of various ideas on how our project should be used for, we all agreed about the complications of charging schoolar subjects, know with which teachers you should charge and what do you need in order to approve the assignment making this a comfortable and easy experience for new students, we all agreed that the main focus should be to make the proccess of charging subjects something more easiers and with a more complete information.
 
 Our project first was a guide where students, using the virtual platforms UADYES/UADYVIRTUAL, can gain access to a new section where they could see the subjects and which teachers impart it, the students could also see a presentation card of each professor where they could a general description about them, how they impart their classes and the approvement rate. All of this was mainly focused on students from first to third semester.
 
