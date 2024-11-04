@@ -1,137 +1,139 @@
-**COMPETENCIAS DE MATERIAS DE PRIMER SEMESTRE**
-Conocimientos Genéricos
+**FIRST SEMESTER COMPETENCES**
+Generic Knowledge 
 
-**Primer Semestre**
+**First Semester**
 
- > **Algebra intermedia**
-Competencias Generales y Disciplinares:
- - Interpreta correctamente tablas, gráficas, diagramas y textos expresados con lenguaje matemático y científico que se utilizan en las matemáticas de nivel superior.
- - Construye modelos matemáticos e ingenieriles mediante a aplicación de principios y procedimientos algebraicos, geométricos y de cálculo, para la comprensión y análisis de situaciones reales e hipotéticas.
- - Trabaja bajo presión de manera eficaz y eficientemente.
- - Actualiza sus conocimientos y habilidades para su ejercicio profesional y su vida personal de forma autónoma y permanente. 
+ > **Intermediate algebra**
+Generic and disciplinare competences:
+ - Correctly interprets tables, graphs, diagrams and texts expressed with mathematical and scientific language that are used in higher-level mathematics.
+ - Constructs mathematical and engineering models through the application of algebraic, geometric, and calculus principles and procedures, for the understanding and analysis of real and hypothetical situations.
+ - Work under pressure effectively and efficiently.
+ - They update their knowledge and skills for their professional practice and personal life autonomously and permanently. 
 
- > **Geometría Analítica**
-Competencias Generales y Disciplinares: 
- - Interpreta correctamente tablas, gráficas, diagramas y textos expresados con lenguaje matemático y científico que se utilizan en las matemáticas de nivel superior.
- - Construye modelos matemáticos e ingenieriles mediante a aplicación de principios y procedimientos algebraicos, geométricos y de cálculo, para la comprensión y análisis de situaciones reales e hipotéticas.
- - Gestiona el conocimiento en sus intervenciones profesionales y en su vida general.
+ > **Analytic Geometry**
+Generic and disciplinare competences:
+ - Correctly interprets tables, graphs, diagrams and texts expressed with mathematical and scientific language that are used in higher-level mathematics.
+ - Constructs mathematical and engineering models through the application of algebraic, geometric, and calculus principles and procedures, for the understanding and analysis of real and hypothetical situations.
+ - Manages knowledge in their professional interventions and in their general life.
 
- > **Fundamentos de ingeniería de software**
-Competencias Generales y Disciplinares:
- -  Interpreta correctamente tablas, gráficas, diagramas y textos expresados con lenguaje matemático y científico que se utilizan en las matemáticas de nivel superior.
-- Usa las TIC sus intervenciones profesionales y en su vida personal de manera pertinente y responsable.
- - Trabaja con otros en ambientes multi, inter y transdisciplinarios de manera cooperativa.
- - Toma decisiones en su práctica profesional y personal de manera responsable.
+ > **Software Engineering Fundamentals**
+Generic and disciplinare competences:
+ -  Correctly interprets tables, graphs, diagrams and texts expressed with mathematical and scientific language that are used in higher-level mathematics.
+- Use ICTs, their professional interventions and in their personal life in a relevant and responsible way.
+ - Works with others in multi, inter, and transdisciplinary environments in a cooperative manner.
+ - Makes decisions in their professional and personal practice in a responsible manner.
 
- > **Algoritmia**
-Competencias Generales y Disciplinares: 
- - Diseña algoritmos computacionales eficientes aplicando conceptos  básicos de matemáticas discretas lógica, algoritmia y estructuras de datos.
- - Resuelve problemas computacionales eficientes aplicando conocimiento de la estructura, organización funcionamiento, programación e interconexión de sistemas de computo.
-- Usa las TIC sus intervenciones profesionales y en su vida personal de manera pertinente y responsable.
+ > **Algorithmy**
+Generic and disciplinare competences:
+ - Design efficient computational algorithms by applying basic concepts of discrete mathematics, logic, algorithms, and data structures.
+ - Solve efficient computational problems by applying knowledge of the structure, organization, operation, programming and interconnection of computer systems.
+- Use ICTs, their professional interventions and in their personal life in a relevant and responsible way.
 
- > **Responsabilidad Social Universitaria**
-Competencias Generales y Disciplinares: 
- - Explica los desafíos globales y locales del desarrollo social justo y sostenible a la luz de informaciones actualizadas y científicamente sustentadas. 
- -  Valora la diversidad y multiculturalidad en su quehacer cotidiano, bajo los criterios de la ética.
- - Trabaja con otros en ambientes multi, inter y transdiciplinarios de manera cooperativa.
- - Utiliza habilidades de investigación en sus intervenciones profesionales con rigor científico.
+ > **University Social Responsibility**
+Generic and disciplinare competences:
+ - Explains the global and local challenges of fair and sustainable social development in the light of up-to-date and scientifically supported information. 
+ - Values diversity and multiculturalism in their daily work, under the criteria of ethics.
+ - Works with others in multi, inter, and transdisciplinary environments in a cooperative manner.
+ - Uses research skills in their professional interventions with scientific rigor.
 
-**Segundo Semestre**
+**Second Semester**
 
-> **Álgebra Superior**
-Competencias Generales y Disciplinares:
--	Utiliza habilidades de investigación en sus intervenciones profesionales con rigor científico
--	Desarrolla su pensamiento en intervenciones profesionales y personales, de manera crítica y reflexiva
+> **Higher Algebra**
+Generic and disciplinare competences:
+- Uses research skills in their professional interventions with scientific rigor
+- Develops their thinking in professional and personal interventions, in a critical and reflective way
 
-> **Cálculo Diferencial**
-Competencias Generales y Disciplinares:
--	Se comunica en español en forma oral y escrita en sus intervenciones profesionales y en su vida personal, utilizando correctamente el idioma-
--	Usa las TIC en sus intervenciones profesionales y en sus
--	Desarrolla su pensamiento en intervenciones profesionales y personales, de manera critica, reflexiva y creativa
+> **Differential calculus**
+Generic and disciplinare competences:
+- Communicates in Spanish orally and in writing in their professional interventions and in their personal life, using the language correctly.
+- Uses ICT in their professional interventions and in their
+- Develops their thinking in professional and personal interventions, in a critical, reflective and creative way
 
-> **Cultura Maya**
-Competencias Generales y Disciplinares:
-- Gestiona el conocimiento en sus intervenciones profesionales y en su vida personal, de manera pertinente.
-- Utiliza habilidades de investigación, en sus intervenciones profesionales con rigor científico.
-- Trabaja con otros en ambientes multi, inter y transdisciplinarios de manera cooperativa.
-- Manifiesta comportamientos profesionales y personales, en los ámbitos en los que se desenvuelve, de manera transparente y ética.
-- Establece relaciones interpersonales, en los ámbitos en los que se desenvuelve, de manera positiva y respetuosa.
-- Valora la diversidad y multiculturalidad en su quehacer cotidiano, bajo los criterios de la ética.
-- Aprecia las diversas manifestaciones artísticas y culturales en su quehacer cotidiano, de manera positiva y respetuosa.
-- Valora la cultura maya en su quehacer cotidiano, de manera positiva y respetuosa.
+> **Maya Culture**
+Generic and disciplinare competences:
+- Manage knowledge in their professional interventions and in their personal life, in a relevant way.
+- Uses research skills, in their professional interventions with scientific rigor.
+- Works with others in multi, inter, and transdisciplinary environments in a cooperative manner.
+- Manifests professional and personal behaviors, in the areas in which they operate, in a transparent and ethical manner.
+- Establishes interpersonal relationships, in the areas in which they operate, in a positive and respectful way.
+- Values diversity and multiculturalism in their daily work, under the criteria of ethics.
+- Appreciates the various artistic and cultural manifestations in their daily work, in a positive and respectful way.
+- Values the Mayan culture in their daily work, in a positive and respectful way.
 
-> **Matemáticas Discretas**
-Competencias Generales y Disciplinares:
-- Usa las TIC en sus intervenciones profesionales y en su vida personal de manera pertinente y responsable Aplica los conocimientos en sus intervenciones profesionales y en su vida personal con pertinencia.
--	Actualiza sus conocimientos y habilidades para su ejercicio profesional y su vida personal, de forma autónoma y permanente.
--	Desarrolla su pensamiento en intervenciones profesionales y personales, de manera critica, reflexiva y creativa.
+> **Discrete mathematics**
+Generic and disciplinare competences:
+- Uses ICT in their professional interventions and in their personal life in a relevant and responsible way. Applies knowledge in their professional interventions and in their personal life with relevance.
+- Update their knowledge and skills for their professional practice and personal life, autonomously and permanently.
+- Develop their thinking in professional and personal interventions, in a critical, reflective and creative way.
 
-> **Programación Estructurada**
-Competencias Generales y Disciplinares:
--	Trabaja con otros en ambientes multi, inter y transdisciplinarios de manera cooperativa.
-- Resuelve problemas en contextos locales, nacionales e internacionales, de manera profesional.
-- Responde a nuevas situaciones en su práctica profesional y en su vida personal, en contextos locales, nacionales e internacionales, con flexibilidad.
-- Trabaja bajo presión de manera eficaz, eficientemente
+> **Structured Programming**
+Generic and disciplinare competences:
+- Works with others in multi, inter, and transdisciplinary environments in a cooperative manner.
+- Solves problems in local, national and international contexts, in a professional manner.
+- Respond to new situations in their professional practice and personal life, in local, national and international contexts, with flexibility.
+- Works under pressure effectively, efficiently
 
 
+ **Third Semester**
 
- **Tercer Semestre**
+> **Linear Algebra**
+Generic and disciplinare competences:
 
-> **Álgebra Lineal**
-Competencias Generales y Disciplinares:
+ - Use ICT in their professional interventions and in their personal life in a relevant and responsible way.
+ - Update their knowledge and skills for their professional practice and personal life autonomously and permanently.
+ - Develop their thinking in professional and personal interventions, in a critical, reflective and creative way.
+ - Work under pressure effectively and efficiently.
+ - Communicates in Spanish orally and in writing in their professional interventions and in their personal life and in their personal life using the language correctly.
+ - Correctly interpret tables, graphs, diagrams and texts expressed with mathematical and scientific language that are used in higher-level mathematics.
+ - Constructs mathematical and engineering models through the application of algebraic, geometric, and calculus principles and procedures, for the understanding and analysis of real and hypothetical situations.
 
- - Usa las TIC en sus intervenciones profesionales y en su vida personal de manera pertinente y responsable.
- - Actualiza sus conocimientos y habilidades para su ejercicio profesional y su vida personal de forma autónoma y permanente.
- - Desarrolla su pensamiento en intervenciones profesionales y personales, de manera critica, reflexiva y creativa.
- - Trabaja bajo presión de manera eficaz y eficiente.
- - Se comunica en español en forma oral y escrita en sus intervenciones profesionales y en su vida personal y en su vida personal utilizando correctamente el idioma.
- - Interpreta correctamente tablas, gráficas, diagramas y textos expresados con lenguaje matemático y científico que se utilizan en las matemáticas de nivel superior.
- - Construye modelos matemáticos e ingenieriles mediante la aplicación de principios y procedimiento algebraicos, geométricos y del cálculo, para la comprensión y análisis de situaciones reales e hipotéticas.
+> **Integral Calculation**
+Generic and disciplinare competences:
 
-> **Cálculo Integral**
-Competencias Generales y Disciplinares:
+ - Use ICT in their professional interventions and in their personal life in a relevant and responsible way.
+ - Update their knowledge and skills for their professional practice and personal life autonomously and permanently.
+ - Manages knowledge in their professional interventions and in their general life.
+ - Develop their thinking in professional and personal interventions, in a critical, reflective and creative way.
+ - Makes decisions in their professional and personal practice in a responsible manner.
+ - Communicates in Spanish orally and in writing in their professional interventions and in their personal life and in their personal life using the language correctly.
+  - Correctly interpret tables, graphs, diagrams and texts expressed with mathematical and scientific language that are used in higher-level mathematics.
+ - Constructs mathematical and engineering models through the application of algebraic, geometric, and calculus principles and procedures, for the understanding and analysis of real and hypothetical situations.
 
- - Usa las TIC en sus intervenciones profesionales y en su vida personal de manera pertinente y responsable.
- - Actualiza sus conocimientos y habilidades para su ejercicio profesional y su vida personal de forma autónoma y permanente.
- - Gestiona el conocimiento en sus intervenciones profesionales y en su vida general.
- - Desarrolla su pensamiento en intervenciones profesionales y personales, de manera critica, reflexiva y creativa.
- - Toma decisiones en su práctica profesional y personal de manera responsable.
- - Se comunica en español en forma oral y escrita en sus intervenciones profesionales y en su vida personal y en su vida personal utilizando correctamente el idioma.
- - Interpreta correctamente tablas, gráficas, diagramas y textos expresados con lenguaje matemático y científico que se utilizan en las matemáticas de nivel superior.
- - Construye modelos matemáticos e ingenieriles mediante la aplicación de principios y procedimiento algebraicos, geométricos y del cálculo, para la comprensión y análisis de situaciones reales e hipotéticas.
 
-> **Programación Orientada a Objetos**
-Competencias Generales y Disciplinares:
+> **Object-oriented programming**
+Generic and disciplinare competences:
 
- - Aplica los conocimientos en sus intervenciones profesionales y en su vida personal con pertinencia.
- - Trabaja bajo presión de manera eficaz y eficiente.
- - Se comunica en español en forma oral y escrita en sus intervenciones profesionales y en su vida personal y en su vida personal utilizando correctamente el idioma.
- - Trabaja con otros en ambientes multi, inter y transdiciplinarios de manera cooperativa.
- - Resuelve problemas con contextos locales, nacionales e internacionales , de manera profesional.
- - Diseña algoritmos computacionales eficientes aplicando conceptos básicos de matemáticas discretas, lógica, algoritmia y estructura de datos.
- - Resuelve problemas computacionales aplicando el conocimiento de la estructura, organización, funcionamiento, programación e interconexión de sistemas de cómputo.
+- Apply knowledge in their professional interventions and in their personal life with relevance.
+ - Work under pressure effectively and efficiently.
+ - Communicates in Spanish orally and in writing in their professional interventions and in their personal life and in their personal life using the language correctly.
+ - Works with others in multi, inter, and transdisciplinary environments in a cooperative manner.
+ - Solves problems with local, national and international contexts, in a professional manner.
+ - Design efficient computational algorithms by applying basic concepts of discrete mathematics, logic, algorithms, and data structure.
+ - Solve computational problems by applying knowledge of the structure, organization, operation, programming and interconnection of computer systems.
 
-> **Teoría de la Computación**
-Competencias Generales y Disciplinares:
 
- - Usa las TIC en sus intervenciones profesionales y en su vida personal de manera pertinente y responsable.
- - Utiliza habilidades de investigación, en sus intervenciones profesionales con rigor científico.
- - Desarrolla su pensamiento en intervenciones profesionales y personales, de manera critica, reflexiva y creativa.
- - Trabaja con otros en ambientes multi, inter y transdisciplinarios de manera cooperativa.
- - Responde a nuevas situaciones en su práctica profesional y en su vida personal, en contextos locales, nacionales e internacionales, con flexibilidad.
- - Trabaja bajo presión de manera eficaz y eficiente.
- - Construye modelos matemáticos e ingenieriles mediante la aplicación de principios y procedimiento algebraicos, geométricos y del cálculo, para la comprensión y análisis de situaciones reales e hipotéticas.
- - Diseña algoritmos computacionales eficientes aplicando conceptos básicos de matemáticas discretas, lógica, algoritmia y estructura de datos.
- - Resuelve problemas computacionales aplicando el conocimiento de la estructura, organización, funcionamiento, programación e interconexión de sistemas de cómputo.
+> **Computer Theory**
+Generic and disciplinare competences:
 
-> **Arquitectura y Organización de Computadoras**
-Competencias Generales y Disciplinares:
+- Use ICT in their professional interventions and in their personal life in a relevant and responsible way.
+ - Uses research skills, in their professional interventions with scientific rigor.
+ - Develop their thinking in professional and personal interventions, in a critical, reflective and creative way.
+ - Works with others in multi, inter, and transdisciplinary environments in a cooperative manner.
+ - Respond to new situations in their professional practice and personal life, in local, national and international contexts, with flexibility.
+ - Work under pressure effectively and efficiently.
+ - Constructs mathematical and engineering models through the application of algebraic, geometric, and calculus principles and procedures, for the understanding and analysis of real and hypothetical situations.
+ - Design efficient computational algorithms by applying basic concepts of discrete mathematics, logic, algorithms, and data structure.
+ - Solve computational problems by applying knowledge of the structure, organization, operation, programming and interconnection of computer systems.
 
- - Se comunica en inglés de manera oral y escrita, en la interacción con otros de forma adecuada.
- - Responde a nuevas situaciones en su práctica profesional y en su vida personal, en contextos locales, nacionales e internacionales, con flexibilidad.
- - Actualiza sus ejercicios y habilidades para su ejercicio profesional y su vida personal, de forma autónoma y permanente.
- - Toma decisiones en su práctica profesional y personal de manera responsable.
- - Usa las TIC en sus intervenciones profesionales y en su vida personal de manera pertinente y responsable.
- - Interpreta correctamente tablas, gráficas, diagramas y textos expresados con lenguaje matemático y científico que se utilizan en las matemáticas de nivel superior.
- - Diseña algoritmos computacionales eficientes aplicando conceptos básicos de matemáticas discretas, lógica, algoritmia y estructura de datos.
- - Resuelve problemas computacionales aplicando el conocimiento de la estructura, organización, funcionamiento, programación e interconexión de sistemas de cómputo.
+
+> **Computer Architecture and Organization**
+Generic and disciplinare competences:
+
+- Communicates in English orally and in writing, in interaction with others in an appropriate way.
+ - Respond to new situations in their professional practice and personal life, in local, national and international contexts, with flexibility.
+ - Update their exercises and skills for their professional practice and personal life, autonomously and permanently.
+ - Makes decisions in their professional and personal practice in a responsible manner.
+ - Use ICT in their professional interventions and in their personal life in a relevant and responsible way.
+ - Correctly interpret tables, graphs, diagrams and texts expressed with mathematical and scientific language that are used in higher-level mathematics.
+ - Design efficient computational algorithms by applying basic concepts of discrete mathematics, logic, algorithms, and data structure.
+ - Solve computational problems by applying knowledge of the structure, organization, operation, programming and interconnection of computer systems.
