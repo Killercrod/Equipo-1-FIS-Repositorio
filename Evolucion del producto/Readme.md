@@ -1,31 +1,25 @@
 > 
 
-## **Evolución del producto**
+## **Evolution of the Product**
 
-> ### **Nacimiento del proyecto y primeras visiones** 
->*Para comenzar a indagar en la evolución del proyecto, abarcando desde metodologías, ideas, estructura y documentación, debemos ver cómo fue que nació la idea del proyecto.*
+> ### **First ideas for the project** 
+>*In order to see the evolution of our project, including metodologies, ideas, structures and documentation, we must see how the project was originally conceived*
 
-Cómo primera instancia al realizar la lluvia de ideas acerca de sobre que debíamos basar 			         nuestro proyecto, todos nos inclinamos a hablar sobre un tema y dificultad en común el cuál era el sistema de carga de materias, saber con que profesores debíamos cargar las materias y que se necesitaba saber para no reprobar o para llevar lo más ameno posible el camino a lo largo de nuestra estadía en la universidad, al ser estudiantes de primer ingreso y tener 0 conocimiento acerca de éstos temas, decidimos que podríamos realizar algo al respecto y basar nuestro proyecto en eso, justamente  para solucionar el problema que tienen muchos alumnos de primer ingreso.
+first of all, we did a brainstorm of various ideas on how our project should be used for, we all agreed about the complications of charging schoolar subjects, know with which teachers you should charge and what do you need in order to approve the assignment making this a comfortable and easy experience for new students, we all agreed that the main focus should be to make the proccess of charging subjects something more easiers and with a more complete information.
 
-En primera instancia el proyecto se trató de una guía en la cuál los alumnos a traves de la plataforma UADYES/UADYVIRTUAL , principalmente los de primer a tercer semestre podrían tener un apartado en el cuál podían revisar la lista de materias obligatorias y con que maestros se ofertan, así cómo  también una lista de todos los profesores junto con una tarjeta de presentación en la cuál los alumnos podían ver las tasas de aprobación que tienen los alumnos con cada profesor, presentación general de cada uno y metodología de trabajo.
-Por la parte de las materias tendrían una descripción general de cada una, en la que les diría los conocimientos previos que se necesitaban para cargar dichas asignaturas.
+Our project first was a guide where students, using the virtual platforms UADYES/UADYVIRTUAL, can gain access to a new section where they could see the subjects and which teachers impart it, the students could also see a presentation card of each professor where they could a general description about them, how they impart their classes and the approvement rate. All of this was mainly focused on students from first to third semester.
 
-Sin embargo a lo largo de la evolución y planteamiento así cómo el comienzo de la documentación, nos dimos cuenta que habrían ciertas cuestiones que nos podrían limitar la idea principal del proyecto, cómo el hecho de que los maestros no siempre dan las mismas materias todos los semestres, además de que no hay acceso a la plataforma encargada de la carga de materias (SICEI) ni mucho menos a su información, por lo tanto la idea cambió a en vez de enfocarse en la información que proporcionaban los maestros, enfocarse más en las materias que se recomendaría cargar y cuáles no cargar en base a los conocimientos previos del alumno, a través de una serie de competencias genéricas y especificas a cumplir, trasladándose así, con el siguiente objetivo:
-> ### **Nuestro objetivo consiste en poder facilitar el proceso por el que los alumnos de nuevo ingreso experimentan respecto a la carga de materias al finalizar las que en ese momento tienen, se plantea realizarlo de una manera interactiva, asì como utilizando informacion como las competencias genericas y especificas de cada materia individual para obtener mayor claridad de cada una, esto con la finalidad de tener màs entendimiento sobre las materias a cargar en un futuro semestre y no tener problemas para comprender las materias que el alumno se encuentra cargando.**
+However, through the evolution and documentation, we realized that there were certain cases that would limit how our project would be developed, for example, not all teachers impart the same subjects all the semesters, there is also no access to the platform where you can charge the subjects (SICEI) and neither to the information, that's why the idea changed to give information that the teachers gave us, focusing more on which subjects you should charge and which not depending on your current skills, using the generic and specific skills that all subjects have, changing our objective to:
+> ### **Our objective is to facilitate the process that new students go through when managing their course load, especially as they complete the courses they are currently taking. The plan is to achieve this in an interactive way, using information such as the generic and specific skills of each subject to provide greater clarity about each one. This is aimed at helping students to better understand the courses they will need to take in future semesters, ensuring they encounter fewer difficulties with the courses they are currently enrolled in.**
 
-# PROPUESTA DE VALOR 
-Se refiere a la oferta única que un producto o servicio de software proporciona a sus usuarios o clientes, es decir,el valor percibido que el software 
-ofrece como solución a un problema o necesidad específica del consumidor.
-Puede incluir características como calidad, soporte técnico y resolver los problemas que el "producto" enfrentara en el mercado.
+# PROPOSAL VALUE
+It refers to the unique value that a software product or service offers to its users or customers—in other words, the perceived value that the software provides as a solution to a specific problem or need of the consumer. This value can include features such as quality, technical support, and the ability to address the challenges the "product" may face in the market.
 ---
-Dentro del proyecto FTBUADY, nuestro sistema de gestión académica ofrece una solución integral y eficiente para estudiantes, facilitando el registro, 
-acceso a información académica y la interacción con el cuerpo docente, todo en un entorno seguro y fácil de usar.
+In the FTBUADY project, our academic management system provides a comprehensive and efficient solution for students, making easier the registration, access to academic information, and interaction with the teachers branch within a secure and user-friendly environment.
 ---
-Los beneficios que dara FTBUADY, serán:
-- Facilidad de Registro y Acceso, mediante el registro de usuario e inicio de sesión seguro.
-- Acceso a información Académica, a traves de la Malla Curricular y Propuestas de Cursos.
-- Interracción con docentes con la visualización de información, consultando y contactando con ellos.
+The benefits that FTBUADY will provide include:
+- Easier registration and access through user registration and secure login.
+- access to academic information via the academic curriculum map and course offerings.
+- interaction with teachers with access to faculty information, allowing students to view, consult, and contact their instructors.
 ---
-Esta propuesta de valor se centra en ofrecer una experiencia de usuario excepcional, 
-asegurando que los estudiantes tengan acceso a la información y herramientas necesarias para su éxito académico, 
-mientras se mantienen altos estándares de seguridad y usabilidad.
+This proposal value focuses on providing an exceptional user experience, ensuring that students have access to the information and tools necessary for their academic success, while maintaining high standards of security and usability.
