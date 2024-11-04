@@ -30,10 +30,3 @@ Al momento de dar click en alguna de estas se desplazara a la segunda imagen, do
   tenga oportunidad de pasar pero se le dificulte.
 
 
-
-
-
-
-
-
-#**VALIDACION DE INTERFACES**
