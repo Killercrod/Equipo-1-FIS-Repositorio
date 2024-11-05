@@ -7,4 +7,4 @@
 - Requerimiento:El bot tendra una catalogo de tutoriales acerca de su funcionamiento.
 - Historia de usuario:El usuario al momento de entrar a la pagina el bot automaticamente dara una serie de tutoriales acerca de su funcionamiento y sus funciones.
 - Criterios de aceptacion:El bot tiene una serie de videos que estan relacionados a su funcionamientos posibles preguntas que se le pueden hacer y sus funciones.
-  
+- [Link del wireframe](https://www.figma.com/design/7InUFv2xVBipXkOe4PJbot/PD---2?node-id=0-1&node-type=canvas&t=hdQe8amqVMr7qoop-0)
