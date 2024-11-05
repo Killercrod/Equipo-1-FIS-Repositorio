@@ -1,4 +1,5 @@
 ## Metricas de contribucion individual
-![Wireframe del requisito.](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/blob/MANGO/Assets/Screenshot%202024-11-03%20at%2023-57-27%20Untitled%20%E2%80%93%20Figma.png)
-![Wireframe del requisito.](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/blob/MANGO/Assets/Screenshot%202024-11-03%20at%2023-57-27%20Untitled%20%E2%80%93%20Figma.png)
-![Wireframe del requisito.](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/blob/MANGO/Assets/Screenshot%202024-11-03%20at%2023-57-27%20Untitled%20%E2%80%93%20Figma.png)
+### In this section, we will discuss each person's general contribution. In the process section, we have delved deeper into the specific individual contributions of each participant.
+![Green.](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/blob/FASE-2-PROYECTO-FIS/Assets/Green.png)
+![Yellow.](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/blob/FASE-2-PROYECTO-FIS/Assets/Yellow.png)
+![Red.](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/blob/FASE-2-PROYECTO-FIS/Assets/Red.png)
