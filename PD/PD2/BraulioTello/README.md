@@ -4,7 +4,9 @@
  > ## **HISTORIA DE USUARIO**
  - Cómo usuario quiero tener una herramienta en la cual pueda agregar distintos sitios al HUB para tener un alojamiento más accesible y ordenado de todo el espacio virtual con el que trabajo 
  > ## **CRITERIOS DE ACEPTACIÓN**
- - 
+ - La plataforma debe contar con una interfaz accesible y clara para que los usuarios puedan agregar nuevas aplicaciones y plataformas al UADYHUB. La interfaz debe permitir que el usuario cargue la información básica de la aplicación (nombre, descripción, tipo de plataforma, enlace de acceso, etc.) de forma sencilla.
+ - Cuando un usuario intenta agregar una aplicación o plataforma, el sistema debe validar la información proporcionada (como la URL de la plataforma o el nombre de la aplicación) para asegurar que cumple con los requisitos definidos y que no haya duplicados en el UADYHUB.
+ - Después de agregar una aplicación, el sistema debe mostrar un mensaje de confirmación de éxito y la nueva aplicación debe ser visible en la lista de aplicaciones disponibles dentro del UADYHUB para todos los usuarios, de acuerdo con los permisos establecidos.
 
 > ## **Acontinuación se muestra el wireframe realizado basado en el requerimiento que se me asigno:**
 En base a la información proporcionada por el compañero al que me tocó corregir ya su equipo, base el wireframe en el sitio que ellos quieren crear, con un sistema de organización por topicos (carpetas) agregando las herramientas/sitios que se requieren para el espacio de trabajo del estudiante UADY
