@@ -1,4 +1,4 @@
-#**REQUERIMIENTO FUNCIONAL**
+# **REQUERIMIENTO FUNCIONAL**
 Nombre: Pizarrones personales
 
 **DESCRIPCION**
