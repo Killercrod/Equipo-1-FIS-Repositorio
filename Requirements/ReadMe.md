@@ -15,8 +15,7 @@
 > - The system must allow course enrollment between 8:00 am and 11:00 am.
 > - The colors used to indicate the likelihood of success in courses must be distinguishable and easily understood, ensuring that users with visual impairments can interpret them correctly.
 > - The guide must comply with WCAG 2.1 guidelines, ensuring that all visual elements, including colors and text, are accessible to individuals with visual and cognitive disabilities.
-
-
-
+> # Happy Path
+The user successfully navigates the curriculum guide, receives clear indicators of subject competencies, obtains evaluations of their preparedness, and views color-coded guidance on their likelihood of passing each course. They also receive personalized advice for challenging courses, allowing them to make informed decisions on course enrollment.
 
 
