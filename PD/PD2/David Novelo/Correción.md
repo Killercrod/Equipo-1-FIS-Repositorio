@@ -1,4 +1,3 @@
-
 # Requerimiento
 -El programa implementa un login con correo institucional.
 
@@ -9,7 +8,8 @@
 - EL programa valida el dominio autorizado
 - En caso de un correo no autorizado o incorrecto, el sistema muestra un mensaje de error claro al usuario.
 # wireframe
-En movil
-!(login1)[https://github.com/Killercrod/Equipo-1-FIS-Repositorio/blob/FASE-2-PROYECTO-FIS/PD/PD2/David%20Novelo/Group%201.png]
-Tablet
-!(login2)[https://github.com/Killercrod/Equipo-1-FIS-Repositorio/blob/FASE-2-PROYECTO-FIS/PD/PD2/David%20Novelo/LOGIN.png]
+## En movil
+![login1](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/blob/FASE-2-PROYECTO-FIS/PD/PD2/David%20Novelo/Group%201.png)
+
+## Tablet
+![login2](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/blob/FASE-2-PROYECTO-FIS/PD/PD2/David%20Novelo/LOGIN.png)
