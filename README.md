@@ -1,6 +1,6 @@
 # Equipo-1-FIS-Repositorio
 
-![UADY](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/blob/main/Assets/UADY.png)
+![UADY](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/blob/main/Assets/logo%20circular%20ilustrativo%20tienda%20vegatales%20verde.png)
 
 ## INDICE
 
