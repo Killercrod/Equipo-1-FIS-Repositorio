@@ -11,9 +11,10 @@
 > - 🔷David Jesús Novelo Ontiveros
 > - 🔷Jonathan Manuel Espinosa Castañeda
 > - 🔷Jorge Arturo Rangel Soberanis
+
 [ACERCA DE NOSOTROS](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/blob/entrega-1/Acerca%20de.md)
 
-* [Entrega-1](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/tree/entrega-1#entrega-1)
-* [Entrega-2](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/tree/entrega-2)
-* [Entrega-3](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/tree/entrega-3)
+* [Entrega-1](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/tree/FASE-1-PROYECTO-FIS)
+* [Entrega-2](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/tree/FASE-2-PROYECTO-FIS)
+* [Entrega-3](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/tree/Fase-3-Proyecto-Fis)
   
