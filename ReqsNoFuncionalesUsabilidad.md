@@ -5,7 +5,7 @@ Funcionalidad: El sistema utiliza emoticonos para brindar retroalimentación sob
 
 Métricas: Una prueba hablada de la comprension de de los emoticonos e iconos con la finalidad de que se entienda el funcionamiento del wire frame
 
-Tiempo de comprensión: El usuario debe entender el significado de los emoticonos después de que se muestren.
+Tiempo de comprensión: El usuario debe entender el significado de los iconos después de que se muestren.
 
 Pruebas de usabilidad: Realizar pruebas de usabilidad en las que al menos el 7 de cada 10 de los participantes evalúen la claridad de la retroalimentación visual como “buena” o superior en una escala de 1 a 5.
 
