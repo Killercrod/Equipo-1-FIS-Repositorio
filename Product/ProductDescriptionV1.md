@@ -1,1 +1,1 @@
-
+Our project first was a guide where students, using the virtual platforms UADYES/UADYVIRTUAL, can gain access to a new section where they could see the subjects and which teachers impart it, the students could also see a presentation card of each professor where they could a general description about them, how they impart their classes and the approvement rate. All of this was mainly focused on students from first to third semester.
