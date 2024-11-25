@@ -12,6 +12,6 @@ In the **FTBUADY project**, our academic management system offers a comprehensiv
 
 - *Subject-Specific Advice System:*
   The guide provides users with recommendations when selecting generic competencies for a subject, offering advice if they should avoid enrolling in a subject they do not meet the requirements for. Conversely, it provides positive guidance when a subject is suitable for them.  
-
+---
 This value proposition focuses on delivering an exceptional user experience, ensuring that students have access to the necessary information and tools for their academic success while maintaining high standards of security and usability.  
 
