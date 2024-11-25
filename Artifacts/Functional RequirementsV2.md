@@ -4,7 +4,6 @@
 > - The guide at the moment of selecting one subject, it breaks down their generic and specific competences
 >*As a user, i want to know the minimum knowledges about every subject that i select on the system*
 > - The guide does an evaluation of the knowledges about the subject that was selected  
->*As a user, i want the system to bring me information about if is it okay to charge a subject or no*
 > - **The guide uses colors to show the user their likelihood of passing each course.**
 > As a student, I want the courses to be displayed in colors indicating my probability of passing, so I can know which courses are more advisable for me to enroll in and which are not.
 > - **The guide offers advice in case the user wishes to select a course for which the evaluation has indicated they are not yet prepared.**
