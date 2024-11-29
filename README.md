@@ -16,7 +16,6 @@ In this document you will find the second delivery of project 1 in the subject o
   * [Constructive critisism]()PENDIENTE
 * [Process](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/tree/FASE-3-PROYECTO-FIS/Process)
   * [Process description]()PENDIENTE
-  * [Binnacle]()PENDIENTE
   * [Individual Contribution Metric]()PENDIENTE
   * [Global Individual Contribution]()PENDIENTE
 * [Our presentation video]()PENDIENTE
