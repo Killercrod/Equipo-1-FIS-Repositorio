@@ -4,25 +4,25 @@ In this document you will find the second delivery of project 1 in the subject o
 
 ## List of contents
 
-* [Artifacts]()
-  * [Functional Requirements]()
-  * [Non-Functional Requirements]()
-  * [Priorization]()
-  * [Use Cases]()
-  * [Use case diagram]()
-  * [User_Stories]()
-* [Assets]()
-  * [Interpretation of results]()
-  * [Constructive critisism]()
-* [Process]()
-  * [Process description]()
-  * [Binnacle]()
-  * [Individual Contribution Metric]()
-  * [Global Individual Contribution]()
-* [Our presentation video]()
-* [Competencies]()
-* [Product]()
-  * [Product evolution]()
-  * [Users/Clients]()
-  * [Innovation]()
+* [Artifacts](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/tree/FASE-3-PROYECTO-FIS/Artifacts)
+  * [Functional Requirements](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/blob/FASE-3-PROYECTO-FIS/Artifacts/Functional%20RequirementsV2.md)
+  * [Non-Functional Requirements]()PENDIENTE
+  * [Priorization](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/blob/FASE-3-PROYECTO-FIS/Artifacts/PriorizationV2.md)
+  * [Use Cases](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/blob/FASE-3-PROYECTO-FIS/Artifacts/Use%20CasesV2.md)
+  * [Use case diagram]()PENDIENTE
+  * [User_Stories](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/blob/FASE-3-PROYECTO-FIS/Artifacts/User%20StoriesV2.md)
+* [Assets](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/tree/FASE-3-PROYECTO-FIS/Assets)
+  * [Interpretation of results]()PENDIENTE
+  * [Constructive critisism]()PENDIENTE
+* [Process](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/tree/FASE-3-PROYECTO-FIS/Process)
+  * [Process description]()PENDIENTE
+  * [Binnacle]()PENDIENTE
+  * [Individual Contribution Metric]()PENDIENTE
+  * [Global Individual Contribution]()PENDIENTE
+* [Our presentation video]()PENDIENTE
+* [Competencies]()PENDIENTE
+* [Product](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/tree/FASE-3-PROYECTO-FIS/Product)
+  * [Product evolution](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/blob/FASE-3-PROYECTO-FIS/Product/Product%20Evolution.md)
+  * [Users/Clients](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/blob/FASE-3-PROYECTO-FIS/Product/UsersV2.md)
+  * [Innovation]()PENDIENTE
   * [Requirements evolution](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/blob/FASE-3-PROYECTO-FIS/Product/evorequirements.md)
