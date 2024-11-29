@@ -11,7 +11,7 @@ Pruebas de usabilidad: Realizar pruebas de usabilidad en las que al menos el 7 d
 
 - Facilidad para usar el sistema semaforo de posibilidad de cursar  
 
-Funcionalidad: El sistema de semaforos para poder reconocer que materias de semestres próximos están más relacionadas a las aptitudes seleccionadas por el alumno.
+Funcionalidad: El sistema de semaforos sirve para poder brindar consejos al estudiante para que sepa que materia es mejor tomar para después.
 
 Métricas: Una prueba simulacion en la cual se le explique un contexto de la aplicacion y que haga una muestra de lo que sucede.
 
