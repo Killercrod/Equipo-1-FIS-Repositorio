@@ -13,7 +13,6 @@ In this document you will find the second delivery of project 1 in the subject o
   * [User_Stories](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/blob/FASE-3-PROYECTO-FIS/Artifacts/User%20StoriesV2.md)
 * [Assets](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/tree/FASE-3-PROYECTO-FIS/Assets)
   * [Interpretation of results]()PENDIENTE
-  * [Constructive critisism]()PENDIENTE
 * [Process](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/tree/FASE-3-PROYECTO-FIS/Process)
   * [Process description]()PENDIENTE
   * [Individual Contribution Metric]()PENDIENTE
@@ -23,5 +22,4 @@ In this document you will find the second delivery of project 1 in the subject o
 * [Product](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/tree/FASE-3-PROYECTO-FIS/Product)
   * [Product evolution](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/blob/FASE-3-PROYECTO-FIS/Product/Product%20Evolution.md)
   * [Users/Clients](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/blob/FASE-3-PROYECTO-FIS/Product/UsersV2.md)
-  * [Innovation]()PENDIENTE
   * [Requirements evolution](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/blob/FASE-3-PROYECTO-FIS/Product/evorequirements.md)
