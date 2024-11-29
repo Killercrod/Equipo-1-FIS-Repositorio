@@ -1,7 +1,7 @@
 # Requisitos no funcionales ligados a usabilidad
 
 - Retroalimentación visual clara del sistema
-Funcionalidad: El sistema utiliza emoticonos para brindar retroalimentación sobre la aptitud del estudiante en relación con las competencias de una materia. Cada emoticono debe representar de forma clara el nivel de aptitud del estudiante.
+Funcionalidad: El sistema utiliza emoticonos para brindar retroalimentación sobre la aptitud del estudiante en relación con las competencias seleccionadas. Cada emoticono debe representar de forma clara el nivel de aptitud del estudiante para las materias de semestres posteriores.
 
 Métricas: Una prueba hablada de la comprension de de los emoticonos e iconos con la finalidad de que se entienda el funcionamiento del wire frame
 
@@ -11,7 +11,7 @@ Pruebas de usabilidad: Realizar pruebas de usabilidad en las que al menos el 7 d
 
 - Facilidad para usar el sistema semaforo de posibilidad de cursar  
 
-Funcionalidad: El sistema de semaforos para poder reconocer que materias son mas faciles de cursar y cuales no contando
+Funcionalidad: El sistema de semaforos para poder reconocer que materias de semestres próximos están más relacionadas a las aptitudes seleccionadas por el alumno.
 
 Métricas: Una prueba simulacion en la cual se le explique un contexto de la aplicacion y que haga una muestra de lo que sucede.
 
