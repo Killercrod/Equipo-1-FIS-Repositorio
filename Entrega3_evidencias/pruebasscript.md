@@ -8,8 +8,6 @@ Paso 1: introducción de la actividad y dar contexto del ambiente en el que se e
 
 Paso 2: con base al contexto dado al tester, se le dejará experimentar con el programa   
 
-Paso 3:  
-
 Introducción: Hola, antes que nada, gracias por venir, bienvenido a la guía de gestión académica FTBUADY que ofrece una solución ágil y eficiente para los estudiantes, facilitando el acceso a la información académica. Mi nombre es Omar y voy a estar encargado de moderar la actividad para la cual te convocamos. 
 
 Escenario: Eres de nuevo ingreso de la facultad en la licenciatura de ingenieria de software, entonces ves tus materias de primer semestre y quieres saber que materias están ligadas a geometría analítica, 
