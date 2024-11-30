@@ -1,6 +1,6 @@
 > # **Functional requirements and their user stories**
 
-> - **The guide, when selecting an asignature, displays its description**
+> - **The guide, when selecting a subject, displays its description**
 >  *As a user, I want to be able to view the descriptions of subjects to understand what they are about*
 
 > - **The guide at the moment of selecting one subject, it breaks down their specific competences**
