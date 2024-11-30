@@ -16,7 +16,6 @@ In this document you will find the second delivery of project 1 in the subject o
 * [Process](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/tree/FASE-3-PROYECTO-FIS/Process)
   * [Process description](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/blob/FASE-3-PROYECTO-FIS/Process/ProcessDescription.md)
   * [Individual Contribution Metric](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/blob/FASE-3-PROYECTO-FIS/Process/IndividualCMetrics.md)
-  * [Global Individual Contribution](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/blob/FASE-3-PROYECTO-FIS/Process/IndividualCMetrics.md)
 * [Our presentation video](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/blob/FASE-3-PROYECTO-FIS/VideoPresentation.md)
 * [Competencies](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/blob/FASE-3-PROYECTO-FIS/Process/IndividualCMetrics.md)
 * [Product](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/tree/FASE-3-PROYECTO-FIS/Product)
