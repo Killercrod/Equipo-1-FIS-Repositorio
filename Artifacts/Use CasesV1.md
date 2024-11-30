@@ -17,8 +17,6 @@
 
 4. El sistema despliega la información general de la asignatura.
 
-Aquí tienes los casos de uso 2 y 3 combinados en uno solo:
-
 **Caso de Uso: Seleccionar Competencias de una Asignatura**
 
 -   **Actor principal:** Alumno de nuevo ingreso
