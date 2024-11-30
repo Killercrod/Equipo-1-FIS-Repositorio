@@ -1,37 +1,34 @@
-BITÁCORA FASE 3 
+### LOGBOOK PHASE 3
 
-Omar Chim
--Realizó modificaciones a los requerimientos no funcionales de usabilidad.
--Realizó un script con ciertas modificaciones, sin emabrgo, no se realizó completo.
+#### Omar Chim
+- Made modifications to the non-functional usability requirements.  
+- Created a script with certain changes; however, it was not completed.  
 
-Tello
--Realizó corrección de requerimientos
--Colaboró con trasladar archivos de fases anteriores a la actual.
--Actualizó la evolución del proyecto.
--Colaboró en el script de pruebas.
--Modificó el wireframe
+#### Braulio Tello 
+- Revised and corrected requirements.  
+- Helped transfer files from previous phases to the current one.  
+- Updated the project’s progress.  
+- Contributed to the test script.  
+- Modified the wireframe.  
 
-Chipo
-Ayudó a la reestructuración de la corrección del figma
-Ayudó con la estructuración y formación del script para las pruebas de usabilidad
-Traducción de la información.
-Pasó la información de la planeación didáctica al wireframe
-Ayudó con los consejos de las materias en el wireframe
+#### Iván Chi  
+- Assisted in structuring and developing the usability test script.  
+- Translated information.  
+- Transferred information from the didactic plan to the wireframe.  
 
-David
-Desarrollo del wireframe
-Codificación del wireframe
-Consejos del wireframe
-Estructuración del script
+#### David Novelo 
+- Developed the wireframe.  
+- Coded the wireframe.  
+- Provided feedback for the wireframe.  
+- Structured the script.  
 
+#### Jorge Rangel  
+- Collaborated on the wireframe.  
+- Worked on the evolution of requirements.  
+- Compared requirements.  
 
-Jorge
--Colaboración en wireframe.
-Evolución de requerimientos.
-Comparación de requerimientos
-
-Jonathan
-Formato y alineación del wireframe
-Historia de requisitos
-Acomodo de la información dentro del repositorio.
-Bitácora de colaboraciones
+#### Jonathan Espinosa 
+- Formatted and aligned the wireframe.  
+- Worked on the requirements history.  
+- Organized the information within the repository.  
+- Logged collaboration entries.  
