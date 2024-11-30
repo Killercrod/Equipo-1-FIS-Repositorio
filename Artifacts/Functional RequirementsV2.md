@@ -3,13 +3,11 @@
 > - **The guide, when selecting a subject, displays its description**
 >  *As a user, I want to be able to view the descriptions of subjects to understand what they are about*
 
-> - **The guide at the moment of selecting one subject, it breaks down their specific competences**
-> *As a user, i want to know the minimum knowledges about every subject that i select on the system*
+> - **
 
 > - **The guide displays icons to show the user how closely related the subjects are**
 > *As a student, I want the courses to be displayed with icons indicating their relevance to related subjects, so I can understand their importance for the future*
 
-> - **The guide offers advice in case the user wishes to select a course for which the evaluation has indicated they are not yet prepared.**
-> *As a student, I want the system to advise me if I want to enroll in a course for which I am unprepared, so I can know which courses I should take to meet the necessary competencies.*
-
+> - **The guide offers advice to help determine which related subjects are best to continue with**
+> *As a student, I want the system to advise me on which subject to take next, so I can have prior knowledge and choose the most suitable related subject*
 
