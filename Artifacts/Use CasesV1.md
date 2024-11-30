@@ -1,53 +1,45 @@
 
-**Caso de Uso 1: Ver Guía de Asignaturas**
+### **Use Case 1: View Subject Guide**
 
--   **Usuario:** Alumno de nuevo ingreso
--   **Objetivo:** Facilitar al alumno la consulta de las asignaturas del primer al tercer semestre.
--   **Precondiciones:**
+**Actor**: New incoming student  
 
--   El alumno debe haber iniciado sesión en el sistema.
+**Objective**: Enable the student to access the subjects offered from the first to the third semester.  
 
--   **Flujo principal:**
+**Preconditions**:  
+- The student must have logged into the system.  
 
-1. El alumno accede a la guía FTBUADY mediante sus credenciales
-
-2. El sistema muestra una lista con las asignaturas de los respectivos semestres.
-
-3. El alumno elige una asignatura para consultar su información.
-
-4. El sistema despliega la información general de la asignatura.
-
-**Caso de Uso: Seleccionar Competencias de una Asignatura**
-
--   **Actor principal:** Alumno de nuevo ingreso
--   **Objetivo:** Mostrar al alumno las competencias genéricas y específicas que desarrolla una asignatura seleccionada.
--   **Precondiciones:**
-
--   El alumno debe haber seleccionado una asignatura de la guía.
-
--   **Flujo principal:**
-
-1. El alumno selecciona una asignatura de la guía.
-
-2. El sistema despliega una lista con las competencias genéricas y específicas de la asignatura.
-
-3. El alumno revisa la información y selecciona las competencias con las cuales considere que cuente
-
-**Caso de Uso 3: Obtener Consejos al seleccionar competencias**
-
-**Actor principal:** Alumno de nuevo ingreso
-
--   **Objetivo:** Proveer al alumno consejos acorde a las competencias que seleccionó
--   **Precondiciones:**
-
--   El alumno debe haber seleccionado las competencias con las cuales considera que cuenta de una asignatura
-
--   **Flujo principal:**
-
-1.  El alumno selecciona un curso en la guía.
-
-2.  El sistema verifica los resultados de las competencias elegidas
-
-3.  El sistema le mostrara el consejo acorde a los resultados de las competencias
+**Main Flow**:  
+1. The student logs into the FTBUADY guide using their credentials.  
+2. The system displays a list of subjects for the respective semesters.  
+3. The student selects a subject to view its information.  
+4. The system displays the general information about the selected subject.  
 
 
+### **Use Case 2: Select Subject Competencies**
+
+**Primary Actor**: New incoming student  
+
+**Objective**: Show the student the generic and specific competencies developed by a selected subject.  
+
+**Preconditions**:  
+- The student must have selected a subject from the guide.  
+
+**Main Flow**:  
+1. The student selects a subject from the guide.  
+2. The system displays a list of the generic and specific competencies associated with the subject.  
+3. The student reviews the information and selects the competencies they believe they already possess.  
+
+
+### **Use Case 3: Receive Advice Based on Selected Competencies**  
+
+**Primary Actor**: New incoming student  
+
+**Objective**: Provide the student with advice based on the competencies they have selected.  
+
+**Preconditions**:  
+- The student must have selected the competencies they believe they possess for a subject.  
+
+**Main Flow**:  
+1. The student selects a subject from the guide.  
+2. The system verifies the results of the selected competencies.  
+3. The system provides advice aligned with the results of the selected competencies.  
