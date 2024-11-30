@@ -1,5 +1,5 @@
 #**Caso de Uso 1: Ver Guía de Asignaturas**
-> Usuario: Alumno de nuevo ingreso
+>-Usuario: Alumno de nuevo ingreso
 •	Objetivo: Facilitar al alumno la consulta de las asignaturas del primer al tercer semestre.
 •	Precondiciones:
 o	El alumno debe haber iniciado sesión en el sistema.
