@@ -1,26 +1,16 @@
-# Requisitos no funcionales ligados a usabilidad
+### **Non-Functional Requirements Related to Usability**
 
-- Retroalimentación visual clara del sistema
-Funcionalidad: El sistema utiliza emoticonos para brindar retroalimentación sobre la aptitud del estudiante en relación con las competencias seleccionadas. Cada emoticono debe representar de forma clara el nivel de aptitud del estudiante para las materias de semestres posteriores.
+- **Clear Visual Feedback from the System**  
+  **Functionality**: The system uses emojis to provide feedback on the student's aptitude regarding the selected competencies. Each emoji must clearly represent the student's level of aptitude for subjects in future semesters.  
+  **Metrics**: A verbal test to evaluate the understanding of the emojis and icons to ensure the wireframe's functionality is clear.  
+  **Comprehension Time**: Users must understand the meaning of the icons immediately after they are displayed.  
+  **Usability Testing**: Conduct usability tests in which at least 7 out of 10 participants rate the clarity of the visual feedback as "good" or higher on a scale of 1 to 5.  
 
-Métricas: Una prueba hablada de la comprension de de los emoticonos e iconos con la finalidad de que se entienda el funcionamiento del wire frame
+- **Ease use for the Traffic Light System for Course Selection**  
+  **Functionality**: The traffic light system is designed to provide recommendations to students, helping them determine which subject is best to take next.  
+  **Metrics**: A simulation test where the application context is explained to the user, and they are asked to demonstrate how it works.  
+  **Number of Clicks**: The number of clicks should be within the average range based on feedback from users and testers.  
 
-Tiempo de comprensión: El usuario debe entender el significado de los iconos después de que se muestren.
-
-Pruebas de usabilidad: Realizar pruebas de usabilidad en las que al menos el 7 de cada 10 de los participantes evalúen la claridad de la retroalimentación visual como “buena” o superior en una escala de 1 a 5.
-
-- Facilidad para usar el sistema semaforo de posibilidad de cursar  
-
-Funcionalidad: El sistema de semaforos sirve para poder brindar consejos al estudiante para que sepa que materia es mejor tomar para después.
-
-Métricas: Una prueba simulacion en la cual se le explique un contexto de la aplicacion y que haga una muestra de lo que sucede.
-
-Número de clics: El numero de clics debe estar en el promedio basado en los usuarios y en los testers.
-
-
-- Facilidad de navegación del sistema: 
-La estructura del sistema debe ser fácil de seguir y entender, mostrando cómo los estudiantes navegarán entre los semestres y competencias sin hacer muchos pasos.
-
-Métrica: En pruebas de usabilidad, al menos el 7 de cada 10  de los participantes debe poder navegar entre semestres y competencias en el wireframe sin ayuda.
-
-
+- **Ease of System Navigation**  
+  **Requirement**: The system structure must be easy to follow and understand, allowing students to navigate between semesters and competencies with minimal steps.  
+  **Metric**: In usability tests, at least 7 out of 10 participants should be able to navigate between semesters and competencies in the wireframe without assistance.  
