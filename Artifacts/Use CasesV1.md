@@ -38,7 +38,6 @@ la asignatura.
 
 &nbsp;
 
-Aquí tienes los casos de uso 2 y 3 combinados en uno solo:
 
 &nbsp;
 
