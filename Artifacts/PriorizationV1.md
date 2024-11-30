@@ -1,41 +1,39 @@
-| Debe tener | Maomeno | No necesario |
+| Must have | Most | Not required |
 |----------|----------|----------|
-|La plataforma debe presentar información sobre las materias (breves descripciones)    | El sistema debe mostrar el porcentaje de estudiantes que aprobaron cada materia   | El sistema Incluye un tutorial de uso para la página   |
-| El sistema debe proporcionar una interfaz de usuario intuitiva y fácil de usar    | La página estará disponible para su uso exclusivamente entre las 7:00 AM y las 8:00 AM.
-  El sistema desplegar las materias por semestre, mostrando nombre y créditos || Cell 6   |jkljkjkljknj
-| El sistema debe generar un aviso claro cuando se intente cargar una materia de otro semestre o sin los conocimientos previos necesarios.    | El sistema deberá ofrecer estadísticas de uso que incluyan el total de usuarios registrados y el número de usuarios activos en línea  |   |
-|La plataforma se utilizará exclusivamente para fines informativos, asegurando que la información sea precisa, actualizada y clara|||
-|El sistema debe permitir el inicio de sesión de los usuarios mediante la utilización de las credenciales proporcionadas por UADY Virtual|||
-|La plataforma se utilizará exclusivamente para fines informativos, asegurando que la información sea precisa, actualizada y clara.|||
-|Optimización y despliegue correcto de la información en distintos dispositivos y sistemas operativos|||
-|La base de datos se actualizará semestralmente mediante encuestas y trabajo de campo|||
+|The platform should present information about the subjects (brief descriptions) | The system should show the percentage of students who passed each subject | The system includes a tutorial for using the page |
+| The system should provide an intuitive and easy-to-use user interface | The page will be available for use exclusively between 7:00 AM and 8:00 AM.
+The system should display the subjects by semester, showing name and credits || Cell 6 |jkljkjkljknj
+| The system should generate a clear warning when trying to load a subject from another semester or without the necessary prior knowledge. | The system should offer usage statistics that include the total number of registered users and the number of active users online | |
+|The platform will be used exclusively for informational purposes, ensuring that the information is accurate, up-to-date and clear|||
+|The system must allow users to log in using the credentials provided by UADY Virtual|||
+|The platform will be used exclusively for informational purposes, ensuring that the information is accurate, up-to-date and clear.|||
+|Optimization and correct deployment of information on different devices and operating systems|||
+|The database will be updated semi-annually through surveys and field work|||
 
+**FUNCTIONAL REQUIREMENTS**
 
-**REQUERIIMIENTOS FUNCIONALES**
+The platform must present information on the subjects (brief descriptions)
 
-La plataforma debe presentar información sobre las materias (breves descripciones)
+The system must show the percentage of students who passed each subject
 
-El sistema debe mostrar el porcentaje de estudiantes que aprobaron cada materia
+The system must provide an intuitive and easy-to-use user interface
 
-El sistema debe proporcionar una interfaz de usuario intuitiva y fácil de usar
+The system displays the subjects by semester, showing name and credits
 
-El sistema desplegar las materias por semestre, mostrando nombre y créditos
+The system must generate a clear warning when trying to load a subject from another semester or without the necessary prior knowledge.
 
-El sistema debe generar un aviso claro cuando se intente cargar una materia de otro semestre o sin los conocimientos previos necesarios.
+The system includes a tutorial for using the page
 
-El sistema Incluye un tutorial de uso para la página
+**NON-FUNCTIONAL REQUIREMENTS**
 
-**REQUERIMIENTOS NO FUNCIONALES**
+The page will be available for use exclusively between 7:00 AM and 8:00 AM.
 
-La página estará disponible para su uso exclusivamente entre las 7:00 AM y las 8:00 AM.
+The system must allow users to log in using the credentials provided by UADY Virtual
 
-El sistema debe permitir el inicio de sesión de los usuarios mediante la utilización de las credenciales proporcionadas por UADY Virtual
+The platform will be used exclusively for informational purposes, ensuring that the information is accurate, up-to-date and clear.
 
-La plataforma se utilizará exclusivamente para fines informativos, asegurando que la información sea precisa, actualizada y clara.
+The system must offer usage statistics that include the total number of registered users and the number of active users online*
 
-El sistema deberá ofrecer estadísticas de uso que incluyan el total de usuarios registrados y el número de usuarios activos en línea*
+Optimization and correct deployment of information on different devices and operating systems
 
-Optimización y despliegue correcto de la información en distintos dispositivos y sistemas operativos
-
-La base de datos se actualizará semestralmente mediante encuestas y trabajo de campo
-
+The database will be updated semi-annually through surveys and field work
