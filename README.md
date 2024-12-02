@@ -1,6 +1,6 @@
 ## What will you find in this document?
 
-In this document you will find the second delivery of project 1 in the subject of Fundamentals of Software Engineering, with all the aspects to be evaluated in the Rubric of this activity.
+In this document you will find the third delivery of project 1 in the subject of Fundamentals of Software Engineering, with all the aspects to be evaluated in the Rubric of this activity.
 
 ## List of contents
 
