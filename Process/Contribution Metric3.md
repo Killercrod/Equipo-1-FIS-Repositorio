@@ -32,3 +32,7 @@
 - Worked on the requirements history.  
 - Organized the information within the repository.  
 - Logged collaboration entries.  
+#### Cesar Rodriguez
+- Organized the information within the repository.
+- Worked on the evolution of requirements.
+-  Translated information. 
