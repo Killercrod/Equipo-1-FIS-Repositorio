@@ -11,7 +11,7 @@ In this document you will find the third delivery of project 1 in the subject of
   * [Use Cases](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/blob/FASE-3-PROYECTO-FIS/Artifacts/Use%20CasesV2.md)
   * [Use case diagram](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/blob/FASE-3-PROYECTO-FIS/Artifacts/Use%20Case%20Diagram.md)
   * [User_Stories](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/blob/FASE-3-PROYECTO-FIS/Artifacts/User%20StoriesV2.md)
-* [Assets](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/tree/FASE-3-PROYECTO-FIS/Assets)
+* [Assets](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/blob/FASE-3-PROYECTO-FIS/Process/SurveyDocumentation.md)
   * [Interpretation of results](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/blob/FASE-3-PROYECTO-FIS/Assets/interpretationofresults.md)
 * [Process](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/tree/FASE-3-PROYECTO-FIS/Process)
   * [Process description](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/blob/FASE-3-PROYECTO-FIS/Process/ProcessDescription.md)
