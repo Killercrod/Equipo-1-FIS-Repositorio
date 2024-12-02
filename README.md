@@ -6,7 +6,7 @@ In this document you will find the third delivery of project 1 in the subject of
 
 * [Artifacts](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/tree/FASE-3-PROYECTO-FIS/Artifacts)
   * [Functional Requirements](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/blob/FASE-3-PROYECTO-FIS/Artifacts/Functional%20RequirementsV2.md)
-  * [Non-Functional Requirements](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/blob/FASE-3-PROYECTO-FIS/Artifacts/ReqsNoFuncionalesUsabilidad.md)
+  * [Non-Functional Requirements](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/blob/FASE-3-PROYECTO-FIS/Non-FunctionalRequirementsRelatedToUsability.md)
   * [Priorization](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/blob/FASE-3-PROYECTO-FIS/Artifacts/PriorizationV2.md)
   * [Use Cases](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/blob/FASE-3-PROYECTO-FIS/Artifacts/Use%20CasesV2.md)
   * [Use case diagram](https://github.com/Killercrod/Equipo-1-FIS-Repositorio/blob/FASE-3-PROYECTO-FIS/Artifacts/Use%20Case%20Diagram.md)
