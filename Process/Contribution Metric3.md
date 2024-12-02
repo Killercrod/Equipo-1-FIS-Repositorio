@@ -2,7 +2,9 @@
 
 #### Omar Chim
 - Made modifications to the non-functional usability requirements.  
-- Created a script with certain changes; however, it was not completed.  
+- Created a script with certain changes; however, it was not completed.
+- Helped transfer files from previous phases to the current one.
+- Assisted in structuring and developing the usability test script.
 
 #### Braulio Tello 
 - Revised and corrected requirements.  
@@ -33,6 +35,9 @@
 - Organized the information within the repository.  
 - Logged collaboration entries.  
 #### Cesar Rodriguez
+- Make the organization program
 - Organized the information within the repository.
 - Worked on the evolution of requirements.
--  Translated information. 
+-  Translated information.
+-  Create the projects and the tasks
+-  Make timelapses for each assignment
