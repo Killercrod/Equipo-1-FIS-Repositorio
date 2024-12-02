@@ -1,62 +1,58 @@
-**Caso de Uso 1: Ver Guía de Asignaturas**
 
--   **Usuario:** Alumno de nuevo ingreso
--   **Objetivo:** Facilitar al alumno la consulta de las asignaturas del primer al tercer semestre.
--   **Precondiciones:**
 
--   El alumno debe haber iniciado sesión en el sistema.
+### Use Case 1: View Subject Guide
 
--   **Flujo principal:**
+**User:** New student
 
-1.  El alumno accede a la guía FTBUADY mediante sus credenciales
+**Objective:** To facilitate the student's consultation of subjects from the first to the third semester.
 
-2. El sistema muestra una lista con las asignaturas de los respectivos semestres.
+**Preconditions:**
 
-3. El alumno elige una asignatura para consultar su información.
+- The student must have logged into the system.
 
-4. El sistema despliega la información general de la asignatura.
+**Main Flow:**
 
-**Caso de Uso 2: Visualización de colores para asignaturas no relacionadas**
+1. The student accesses the FTBUADY guide using their credentials.
+2. The system displays a list of subjects for the respective semesters.
+3. The student selects a subject to view its information.
+4. The system displays the general information of the selected subject.
 
-**Usuario:** alumno de nuevo ingreso
+### Use Case 2: Visualization of Colors for Unrelated Subjects
 
-**Objetivo:** El sistema mostrará un color en cada asignatura, similar a un semáforo, para indicar qué asignaturas no están estrechamente relacionadas con el curso seleccionado.
+**User:** New student
 
-**Precondiciones**:
+**Objective:** The system will show a color for each subject, similar to a traffic light, to indicate which subjects are not closely related to the selected course.
 
--   El usuario ha iniciado sesión en el sistema.
--   El usuario ha seleccionado un curso o materia en el sistema.
+**Preconditions:**
 
-**Flujo de Eventos**:
+- The user has logged into the system.
+- The user has selected a course or subject in the system.
 
-1.  **Flujo Principal**:
+**Main Flow:**
 
-1.  El usuario selecciona una materia.
-2.  La guía muestra la relación de cada asignatura con el curso seleccionado.
-3.  El guía asigna un color a cada asignatura:
+1. The user selects a subject.
+2. The guide shows the relationship of each subject to the selected course.
+3. The guide assigns a color to each subject:
+   - Green: Subjects highly related to the selected course.
+   - Yellow: Subjects moderately related to the selected course.
+   - Red: Subjects minimally related to the course.
+4. The system displays the corresponding colors next to the name(s) of each subject.
+5. The user can view and analyze the list of subjects with the indicated colors.
 
--   **Verde**: Asignaturas muy relacionadas con el curso seleccionado.
--   **Amarillo**: Asignaturas moderadamente relacionadas con el curso seleccionado.
--   **Rojo**: Asignaturas poco relacionadas con el curso
+### Use Case 3: Recommendation of Related Subjects Based on Advice
 
-5.  El sistema muestra los colores correspondientes junto al nombre(s) de cada asignatura.
-6.  El usuario puede ver y analizar la lista de asignaturas con los colores indicados.
+**User:** First-semester student
 
-Para el requisito proporcionado, aquí tienes un caso de uso detallado:
+**Preconditions:**
 
-**Caso de Uso 3: Recomendación de asignaturas relacionadas en base a consejos**
+- The student has logged into the system.
+- The student has selected a subject of interest.
 
-**Usuario**: alumno de primer semestre
+**Main Flow:**
 
-**Precondiciones**:
+1. The student logs into the system and selects a subject of interest or one they wish to continue.
+2. The guide shows the subjects related to the selected subject.
+3. The system generates advice based on the most or least related subjects.
+4. The student can view the advice for the most related subject(s) and thus determine which one to continue with.
 
--   El estudiante ha iniciado sesión en el sistema.
 
--  El estudiante ha seleccionado una asignatura de su interés
-
--   **Flujo Principal**:
-
-1.  El estudiante ingresa al sistema y selecciona una asignatura de su interés o que desea continuar.
-2.  La guía muestra las asignaturas relacionadas a la asignatura seleccionada.
-3.  El sistema genera consejos en base a las asignaturas más relacionadas o en caso contrario, menos relacionadas
-4.  El estudiante puede ver el consejo de la(s) materia más relacionada y así determinar con cual continuar
