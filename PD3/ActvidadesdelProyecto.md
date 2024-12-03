@@ -82,8 +82,6 @@ El usuario afirma que al ser claro todo fue fácil de entender.
 - 6.	¿Tiene alguna sugerencia para mejorar la herramienta?
 El usuario dice que sería útil una herramienta auditiva.
 
-```markdown
-
 ### Introduction
 This document details the ongoing activities of the project aimed at developing a fully interactive interface to help people aged 50 and over obtain their CURP. Through five interviews, the outcome and usage of the interface will be defined, ensuring it is accessible and easy to use for the target audience.
 
@@ -143,4 +141,3 @@ During Tester 3, the user followed the instructions and used all the spaces to o
 4. **Did you have any problems with the text size?** The user stated that the text size was correct and legible, again suggesting the addition of an audio tool in the future.
 5. **What part was the easiest to understand?** The user stated that everything was clear and easy to understand.
 6. **Do you have any suggestions to improve the tool?** The user said an auditory tool would be useful.
-```
