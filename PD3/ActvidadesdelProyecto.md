@@ -81,3 +81,52 @@ El usuario afirma que en su caso el texto es el correcto y legible, señalando n
 El usuario afirma que al ser claro todo fue fácil de entender.
 - 6.	¿Tiene alguna sugerencia para mejorar la herramienta?
 El usuario dice que sería útil una herramienta auditiva.
+
+Project Activities
+Team Meetings: During a Discord call, the team met to define and assign roles related to the delivery of Performance Test 3. The following tasks were discussed:
+
+Conducting user surveys.
+Creating the wireframe/interface in Figma.
+Developing the interface processes.
+Drafting the script.
+General conclusions of the prototype.
+Refining the provided information.
+Collecting visual feedback from users.
+Interviews: Five interviews will be conducted with potential users to gather feedback on the interface and its functionality.
+
+Key Elements of the Project
+User-Friendly Interface: The interface is designed to be intuitive, with a focus on accessibility for older adults.
+Step-by-Step Process: The interface will guide users through a clear and structured process to obtain their CURP.
+Tools Used
+Repository Hosting: GitHub
+Virtual Meetings: Discord and Teams
+Communication: WhatsApp
+Version Control: GitHub
+Data Interpretation
+User 1
+The user completed Tester 1 in 30 seconds, using the system without any complications. After using the interface, an interview was conducted to gather feedback on potential improvements, modifications, or additions to the interface. The interview consisted of three questions:
+
+Was there anything you didn't understand or didn't like? Elaborate if the interface was confusing/complicated. The user stated there were no complications during the use of the interface.
+At what point did you feel confused, or was there no confusion? The user acknowledged that having extra or prior information would be more useful to understand the system better.
+What do you think of the information provided for using the system? The user said the information was sufficient.
+Did you have any problems with the text size? The user said the text size was correct.
+What part was the easiest to understand? The user said the usage was easy.
+Do you have any suggestions to improve the tool? The user refrained from giving a suggestion.
+User 2
+During Tester 2, the user correctly used the tool, pressing the spaces as desired and verifying that the provided information was correct. The user completed everything in 39 seconds. After using the interface, an interview was conducted to gather feedback on potential improvements, modifications, or additions to the interface. The interview consisted of three questions:
+
+Was there anything you didn't understand or didn't like? Elaborate if the interface was confusing/complicated. The user stated there were no complications.
+At what point did you feel confused, or was there no confusion? The user said they never felt confused using the interface.
+What do you think of the information provided for using the system? The user said the information was good and that they learned from using the system.
+Did you have any problems with the text size? The user said the text was legible with their glasses.
+What part was the easiest to understand? The user said everything was understandable.
+Do you have any suggestions to improve the tool? The user stated the program is good, despite not giving a suggestion.
+User 3
+During Tester 3, the user followed the instructions and used all the spaces to obtain the needed information, completing the test in 33 seconds. After using the interface, an interview was conducted to gather feedback on potential improvements, modifications, or additions to the interface. The interview consisted of three questions:
+
+Was there anything you didn't understand or didn't like? Elaborate if the interface was confusing/complicated. The user suggested that it would be useful for the interface to have an auditory option due to potential future users' vision-related issues.
+At what point did you feel confused, or was there no confusion? The user stated there were no complications.
+What do you think of the information provided for using the system? The user said the provided information is necessary because it is the information usually requested by entities.
+Did you have any problems with the text size? The user stated that the text size was correct and legible, again suggesting the addition of an audio tool in the future.
+What part was the easiest to understand? The user stated that everything was clear and easy to understand.
+Do you have any suggestions to improve the tool? The user said an auditory tool would be useful.
